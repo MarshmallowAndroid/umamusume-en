@@ -26,8 +26,8 @@ id,category,index,text
 4,4,100801,[Wild Top Gear]Vodka
 4,4,100901,[Top of Blue]Daiwa Scarlet
 4,4,101001,[Wild Frontier]Taiki Shuttle
-4,4,101101,[Rock-piercing Blue]Grass Wander
-4,4,101102,[Saint Jade Healer]Grass Wander
+4,4,101101,[Rock-piercing Blue]Grass Wonder
+4,4,101102,[Saint Jade Healer]Grass Wonder
 4,4,101201,[Amazoness Lapis]Hishi Amazon
 4,4,101301,[Elegance Line]Mejiro Mcqueen
 4,4,101302,[End of Sky]Mejiro Mcqueen
@@ -106,7 +106,7 @@ id,category,index,text
 6,6,1008,Vodka
 6,6,1009,Daiwa Scarlet
 6,6,1010,Taiki Shuttle
-6,6,1011,Grass Wander
+6,6,1011,Grass Wonder
 6,6,1012,Hishi Amazon
 6,6,1013,Mejiro Mcqueen
 6,6,1014,El Condor Pasa
@@ -167,87 +167,87 @@ id,category,index,text
 6,6,1069,Sakura Chiyono
 6,6,1072,Yaeno Muteki
 6,6,2001,Happy Meek
-6,6,9001,駿川たづな
-6,6,9002,秋川理事長
-6,6,9003,乙名史記者
-6,6,9004,桐生院トレーナー
-6,6,9005,安心沢刺々美
-7,7,1001,和氣あず未
-7,7,1002,高野麻里佳
+6,6,9001,Hayakawa Tazuna
+6,6,9002,Chairman Akikawa
+6,6,9003,Reporter Otonashi
+6,6,9004,Trainer Kiryuin
+6,6,9005,Anshinzawa Sasami
+7,7,1001,Waki Azumi
+7,7,1002,Kouno Marika
 7,7,1003,Machico
 7,7,1004,Lynn
-7,7,1005,松井恵理子
-7,7,1006,高柳知葉
-7,7,1007,上田瞳
-7,7,1008,大橋彩香
-7,7,1009,木村千咲
-7,7,1010,大坪由佳
-7,7,1011,前田玲奈
+7,7,1005,Matsui Eriko
+7,7,1006,Tomoyo Takayanagi
+7,7,1007,Ueda Hitomi
+7,7,1008,Ohashi Ayaka
+7,7,1009,Kimura Chisa
+7,7,1010,Otsubo Yuka
+7,7,1011,Maeda Rena
 7,7,1012,Tatsumi Yuiko
-7,7,1013,大西沙織
-7,7,1014,髙橋ミナミ
-7,7,1015,徳井青空
-7,7,1016,衣川里佳
-7,7,1017,田所あずさ
-7,7,1018,青木瑠璃子
-7,7,1019,鈴木みのり
-7,7,1020,鬼頭明里
-7,7,1021,大空直美
-7,7,1022,橋本ちなみ
-7,7,1023,近藤唯
-7,7,1024,星谷美緒
-7,7,1025,小倉唯
-7,7,1026,長谷川育美
-7,7,1027,土師亜文
-7,7,1028,松嵜麗
-7,7,1029,山本希望
-7,7,1030,石見舞菜香
-7,7,1031,嶺内ともみ
-7,7,1032,上坂すみれ
-7,7,1033,咲々木瞳
-7,7,1034,井上遥乃
-7,7,1035,渡部優衣
-7,7,1036,津田美波
-7,7,1037,藤野彩水
-7,7,1038,篠原侑
-7,7,1039,高橋花林
-7,7,1040,香坂さき
-7,7,1041,三澤紗千香
-7,7,1042,福原綾香
-7,7,1043,高田憂希
-7,7,1044,杉浦しおり
-7,7,1045,優木かな
-7,7,1046,大和田仁美
-7,7,1047,照井春佳
-7,7,1048,鈴木絵理
-7,7,1049,下地紫野
+7,7,1013,Oonishi Saori
+7,7,1014,Takahashi Minami
+7,7,1015,Tokui Sora
+7,7,1016,Kinugawa Rika
+7,7,1017,Tadokoro Azusa
+7,7,1018,Aoi Ruriko
+7,7,1019,Suzuki Minori
+7,7,1020,Kito Akari
+7,7,1021,Oozora Naomi
+7,7,1022,Hashimoto Chinami
+7,7,1023,Kondo Yui
+7,7,1024,Hoshitani Mio
+7,7,1025,Ogura Yui
+7,7,1026,Hasegawa Ikumi
+7,7,1027,Hashi Afumi
+7,7,1028,Matsuzaki Rei
+7,7,1029,Yamamoto Nozomi
+7,7,1030,Iwami Manaka
+7,7,1031,Mineuchi Tomomi
+7,7,1032,Uesaka Sumire
+7,7,1033,Sasaki Hitomi
+7,7,1034,Inoue Haruno
+7,7,1035,Watanabe Yui
+7,7,1036,Tsuda Minami
+7,7,1037,Fujino Ayami
+7,7,1038,Sasahara Yui
+7,7,1039,Takahashi Karin
+7,7,1040,Kosaka Saki
+7,7,1041,Misawa Sachika
+7,7,1042,Fukuhara Ayaka
+7,7,1043,Takada Yuuki
+7,7,1044,Sugiura Shiori
+7,7,1045,Yuuki Kana
+7,7,1046,Owada Hitomi
+7,7,1047,Terui Haruka
+7,7,1048,Suzuki Eri
+7,7,1049,Shimoji Shino
 7,7,1050,Watanabe Keiko
-7,7,1051,河井晴菜
-7,7,1052,首藤志奈
-7,7,1053,藍原ことみ
-7,7,1054,田中あいみ
-7,7,1055,三宅麻理恵
-7,7,1056,新田ひより
-7,7,1057,天海由梨奈
-7,7,1058,和多田美咲
-7,7,1059,久保田ひかり
-7,7,1060,前田佳織里
-7,7,1061,佐伯伊織
-7,7,1062,遠野ひかる
-7,7,1063,田澤茉純
-7,7,1064,のぐちゆり
-7,7,1065,山根綺
-7,7,1066,花井美春
-7,7,1067,立花日菜
-7,7,1068,矢野妃菜喜
-7,7,1069,野口瑠璃子
-7,7,1072,日原あゆみ
-7,7,2001,吉咲みゆ
-7,7,9001,藤井ゆきよ
-7,7,9002,水橋かおり
-7,7,9003,陶山恵実里
-7,7,9004,岡咲美保
-7,7,9005,井上喜久子
+7,7,1051,Tsuda Minami
+7,7,1052,Shuto Shina
+7,7,1053,Aihara Kotomi
+7,7,1054,Tanaka Aimi
+7,7,1055,Miyake Marie
+7,7,1056,Nitta Hiyori
+7,7,1057,Amammi Yurina
+7,7,1058,Watada Misaki
+7,7,1059,Kubota Hikari
+7,7,1060,Maeda Kaori
+7,7,1061,Saeki Iori
+7,7,1062,Tono Hikari
+7,7,1063,Tazawa Misami
+7,7,1064,Noguchi Yuri
+7,7,1065,Yamane Aya
+7,7,1066,Hanae Miharu
+7,7,1067,Tachibana Hina
+7,7,1068,Yano Hinaki
+7,7,1069,Noguchi Ruriko
+7,7,1072,Hihara Ayumi
+7,7,2001,Yoshizaki Miyu
+7,7,9001,Fujii Yuyiko
+7,7,9002,Mizuhashi Kaori
+7,7,9003,Suyama Emiri
+7,7,9004,Okasaki Miho
+7,7,9005,Inoue Kikuko
 170,170,1001,Special Week
 170,170,1002,Silence Suzuka
 170,170,1003,Tokai Teio
@@ -319,11 +319,11 @@ id,category,index,text
 170,170,1069,Sakura Chiyono
 170,170,1072,Yaeno Muteki
 170,170,2001,Happy Meek
-170,170,9001,駿川たづな
-170,170,9002,秋川やよい
-170,170,9003,乙名史悦子
-170,170,9004,桐生院葵
-170,170,9005,安心沢刺々美
+170,170,9001,Hayakawa Tazuna
+170,170,9002,Akikawa Yayoi
+170,170,9003,Otonashi Etsuko
+170,170,9004,Kiryuin Aoi
+170,170,9005,Anshinzawa Sasami
 182,182,1001,Special Week
 182,182,1002,Silence Suzuka
 182,182,1003,Tokai Teio
@@ -334,7 +334,7 @@ id,category,index,text
 182,182,1008,Vodka
 182,182,1009,Daiwa Scarlet
 182,182,1010,Taiki Shuttle
-182,182,1011,Grass Wander
+182,182,1011,Grass Wonder
 182,182,1012,Hishi Amazon
 182,182,1013,Mejiro Mcqueen
 182,182,1014,El Condor Pasa
@@ -2152,11 +2152,11 @@ id,category,index,text
 14,14,106001,勝負服（ナイスネイチャ）
 14,14,106101,勝負服（キングヘイロー）
 14,14,200101,勝負服(Happy Meek)
-14,14,900101,専用衣装(駿川たづな)
-14,14,900201,専用衣装(秋川理事長)
-14,14,900301,専用衣装(乙名史記者)
-14,14,900401,専用衣装(桐生院トレーナー)
-14,14,900501,専用衣装(安心沢刺々美)
+14,14,900101,専用衣装(Hayakawa Tazuna)
+14,14,900201,専用衣装(Chairman Akikawa)
+14,14,900301,専用衣装(Reporter Otonashi)
+14,14,900401,専用衣装(Trainer Kiryuin)
+14,14,900501,専用衣装(Anshinzawa Sasami)
 14,14,901001,私服（スペシャルウィーク）
 14,14,901002,私服（サイレンススズカ）
 14,14,901003,私服（トウカイテイオー）
@@ -6126,7 +6126,7 @@ id,category,index,text
 163,163,1069,サ、サクラチヨノオーです！\n憧れのあの人と、夢の舞台に立つために\nこの想い――花開かせてみせますっ！
 163,163,1072,ヤエノムテキです。金剛八重垣流の\n門弟として、強者とのレースを所望します。\nいざ、尋常に勝負！！
 163,163,9001,こんにちは、トレセン学園の理事長秘書、\n駿川たづなです。みなさんが、より良い\n学園生活を送れるよう、支えてまいります♪
-163,163,9004,こんにちは、桐生院葵です。トレセン学園の\n新人トレーナーです。まだまだ未熟者ですが\nウマ娘の為、精一杯、努めて参ります！
+163,163,9004,こんにちは、Kiryuin Aoiです。トレセン学園の\n新人トレーナーです。まだまだ未熟者ですが\nウマ娘の為、精一杯、努めて参ります！
 164,164,1001,臨場感のある食レポ
 164,164,1002,走り続けること
 164,164,1003,誰とでも友達になること
@@ -14622,7 +14622,7 @@ id,category,index,text
 181,181,809001010,『いつもの』ください！
 181,181,809001011,たづなとの絆・憧れを託して
 181,181,809004001,トレーナー心得『指導は常に改良せよ』
-181,181,809004002,同期の桐生院トレーナー
+181,181,809004002,同期のTrainer Kiryuin
 181,181,809004003,お疲れ様です！
 181,181,809004004,趣味を探して
 181,181,809004005,身をもって学ぶべし！
@@ -17734,7 +17734,7 @@ id,category,index,text
 88,88,10019,うふふっ、スーパークリークですよ～。\nみんなの笑顔のためなら、う～んと\n頑張っちゃいます。お任せください♪
 88,88,10020,わたし、ハルウララ！にんじんとね、\nあとは、たのしいから走るのがだ～い好き♪\n1着めざして、めいっぱいがんばるぞーっ！
 88,88,10021,こんにちは、トレセン学園の理事長秘書、\n駿川たづなです。みなさんが、より良い\n学園生活を送れるよう、支えてまいります♪
-88,88,10022,こんにちは、桐生院葵です。トレセン学園の\n新人トレーナーです。まだまだ未熟者ですが\nウマ娘の為、精一杯、努めて参ります！
+88,88,10022,こんにちは、Kiryuin Aoiです。トレセン学園の\n新人トレーナーです。まだまだ未熟者ですが\nウマ娘の為、精一杯、努めて参ります！
 88,88,10023,こんにちは、Daiwa Scarletです！\n精一杯頑張り…って、アンタか。ふんっ！\n目指すは1番よ。それ以外はないんだから！
 88,88,10024,いいツラ構えのヤツが大勢いるねえ…\nへへっ、全員このヒシアマ姐さんが\n相手してやるよ！さあ、タイマンだっ！
 88,88,10025,エアグルーヴだ。信念を曲げなければ\n理想は必ず芽吹く。それを示すため\n私が“女帝”として皆の指針となろう
@@ -18064,7 +18064,7 @@ id,category,index,text
 75,75,10006,[トレセン学園]Gold Ship
 75,75,10007,[トレセン学園]Vodka
 75,75,10008,[トレセン学園]Taiki Shuttle
-75,75,10009,[トレセン学園]Grass Wander
+75,75,10009,[トレセン学園]Grass Wonder
 75,75,10010,[トレセン学園]Mejiro Mcqueen
 75,75,10011,[トレセン学園]El Condor Pasa
 75,75,10012,[トレセン学園]TM Opera O
@@ -18076,8 +18076,8 @@ id,category,index,text
 75,75,10018,[トレセン学園]Sakura Bakushin O
 75,75,10019,[トレセン学園]Super Creek
 75,75,10020,[トレセン学園]Haru Urara
-75,75,10021,[トレセン学園]駿川たづな
-75,75,10022,[トレセン学園]桐生院葵
+75,75,10021,[トレセン学園]Hayakawa Tazuna
+75,75,10022,[トレセン学園]Kiryuin Aoi
 75,75,10023,[トレセン学園]Daiwa Scarlet
 75,75,10024,[トレセン学園]Hishi Amazon
 75,75,10025,[トレセン学園]Air Groove
@@ -18141,7 +18141,7 @@ id,category,index,text
 75,75,20018,[目線は気にせず]Mejiro Dober
 75,75,20019,[…ただの水滴ですって]Nice Nature
 75,75,20020,[一流プランニング]King Halo
-75,75,20021,[共に同じ道を！]桐生院葵
+75,75,20021,[共に同じ道を！]Kiryuin Aoi
 75,75,20023,[見習い魔女と長い夜]Sweep Tosho
 75,75,20024,[パリピ・ぱーりないと！]Daitaku Helios
 75,75,20025,[準備運動は怠るべからず]Ikuno Dictus
@@ -18155,7 +18155,7 @@ id,category,index,text
 75,75,30003,[夢は掲げるものなのだっ！]トウカイテイオー
 75,75,30004,[不沈艦の進撃]Gold Ship
 75,75,30005,[ロード・オブ・ウオッカ]Vodka
-75,75,30006,[千紫万紅にまぎれぬ一凛]Grass Wander
+75,75,30006,[千紫万紅にまぎれぬ一凛]Grass Wonder
 75,75,30007,[パッションチャンピオーナ！]El Condor Pasa
 75,75,30008,[待望の大謀]Seiun Sky
 75,75,30009,[天をも切り裂くイナズマ娘！]Tamamo Cross
@@ -18170,7 +18170,7 @@ id,category,index,text
 75,75,30018,[まだ小さな蕾でも]Nishino Flower
 75,75,30019,[うらら～な休日]Haru Urara
 75,75,30020,[必殺！Wキャロットパンチ！]Biko Pegasus
-75,75,30021,[ようこそ、トレセン学園へ！]駿川たづな
+75,75,30021,[ようこそ、トレセン学園へ！]Hayakawa Tazuna
 75,75,30022,[『エース』として]Mejiro Mcqueen
 75,75,30023,[『幸せ』が舞う時]Rice Shower
 75,75,30024,[『愛してもらうんだぞ』]Oguri Cap
