@@ -1,0 +1,739 @@
+id,category,index,text
+147,147,101,スピード
+147,147,102,スピード
+147,147,103,スピード
+147,147,201,スタミナ
+147,147,202,スタミナ
+147,147,203,スタミナ
+147,147,301,パワー
+147,147,302,パワー
+147,147,303,パワー
+147,147,401,根性
+147,147,402,根性
+147,147,403,根性
+147,147,501,賢さ
+147,147,502,賢さ
+147,147,503,賢さ
+147,147,1101,芝
+147,147,1102,芝
+147,147,1103,芝
+147,147,1201,ダート
+147,147,1202,ダート
+147,147,1203,ダート
+147,147,2101,逃げ
+147,147,2102,逃げ
+147,147,2103,逃げ
+147,147,2201,先行
+147,147,2202,先行
+147,147,2203,先行
+147,147,2301,差し
+147,147,2302,差し
+147,147,2303,差し
+147,147,2401,追込
+147,147,2402,追込
+147,147,2403,追込
+147,147,3101,短距離
+147,147,3102,短距離
+147,147,3103,短距離
+147,147,3201,マイル
+147,147,3202,マイル
+147,147,3203,マイル
+147,147,3301,中距離
+147,147,3302,中距離
+147,147,3303,中距離
+147,147,3401,長距離
+147,147,3402,長距離
+147,147,3403,長距離
+147,147,1000101,フェブラリーS
+147,147,1000102,フェブラリーS
+147,147,1000103,フェブラリーS
+147,147,1000201,高松宮記念
+147,147,1000202,高松宮記念
+147,147,1000203,高松宮記念
+147,147,1000301,大阪杯
+147,147,1000302,大阪杯
+147,147,1000303,大阪杯
+147,147,1000401,桜花賞
+147,147,1000402,桜花賞
+147,147,1000403,桜花賞
+147,147,1000501,皐月賞
+147,147,1000502,皐月賞
+147,147,1000503,皐月賞
+147,147,1000601,天皇賞（春）
+147,147,1000602,天皇賞（春）
+147,147,1000603,天皇賞（春）
+147,147,1000701,NHKマイルC
+147,147,1000702,NHKマイルC
+147,147,1000703,NHKマイルC
+147,147,1000801,ヴィクトリアマイル
+147,147,1000802,ヴィクトリアマイル
+147,147,1000803,ヴィクトリアマイル
+147,147,1000901,オークス
+147,147,1000902,オークス
+147,147,1000903,オークス
+147,147,1001001,日本ダービー
+147,147,1001002,日本ダービー
+147,147,1001003,日本ダービー
+147,147,1001101,安田記念
+147,147,1001102,安田記念
+147,147,1001103,安田記念
+147,147,1001201,宝塚記念
+147,147,1001202,宝塚記念
+147,147,1001203,宝塚記念
+147,147,1001301,スプリンターズS
+147,147,1001302,スプリンターズS
+147,147,1001303,スプリンターズS
+147,147,1001401,秋華賞
+147,147,1001402,秋華賞
+147,147,1001403,秋華賞
+147,147,1001501,菊花賞
+147,147,1001502,菊花賞
+147,147,1001503,菊花賞
+147,147,1001601,天皇賞（秋）
+147,147,1001602,天皇賞（秋）
+147,147,1001603,天皇賞（秋）
+147,147,1001701,エリザベス女王杯
+147,147,1001702,エリザベス女王杯
+147,147,1001703,エリザベス女王杯
+147,147,1001801,マイルCS
+147,147,1001802,マイルCS
+147,147,1001803,マイルCS
+147,147,1001901,ジャパンC
+147,147,1001902,ジャパンC
+147,147,1001903,ジャパンC
+147,147,1002001,チャンピオンズC
+147,147,1002002,チャンピオンズC
+147,147,1002003,チャンピオンズC
+147,147,1002101,阪神JF
+147,147,1002102,阪神JF
+147,147,1002103,阪神JF
+147,147,1002201,朝日杯FS
+147,147,1002202,朝日杯FS
+147,147,1002203,朝日杯FS
+147,147,1002301,有馬記念
+147,147,1002302,有馬記念
+147,147,1002303,有馬記念
+147,147,1002401,ホープフルS
+147,147,1002402,ホープフルS
+147,147,1002403,ホープフルS
+147,147,1002501,帝王賞
+147,147,1002502,帝王賞
+147,147,1002503,帝王賞
+147,147,1002601,JDダービー
+147,147,1002602,JDダービー
+147,147,1002603,JDダービー
+147,147,1002701,JBCLクラシック
+147,147,1002702,JBCLクラシック
+147,147,1002703,JBCLクラシック
+147,147,1002801,JBCスプリント
+147,147,1002802,JBCスプリント
+147,147,1002803,JBCスプリント
+147,147,1002901,JBCクラシック
+147,147,1002902,JBCクラシック
+147,147,1002903,JBCクラシック
+147,147,1003001,東京大賞典
+147,147,1003002,東京大賞典
+147,147,1003003,東京大賞典
+147,147,2000101,Right Turns ○
+147,147,2000102,Right Turns ○
+147,147,2000103,Right Turns ○
+147,147,2000201,Left Turns ○
+147,147,2000202,Left Turns ○
+147,147,2000203,Left Turns ○
+147,147,2000301,Tokyo Racetrack ○
+147,147,2000302,Tokyo Racetrack ○
+147,147,2000303,Tokyo Racetrack ○
+147,147,2000401,Nakayama Racetrack ○
+147,147,2000402,Nakayama Racetrack ○
+147,147,2000403,Nakayama Racetrack ○
+147,147,2000501,Hanshin Racetrack ○
+147,147,2000502,Hanshin Racetrack ○
+147,147,2000503,Hanshin Racetrack ○
+147,147,2000601,Kyoto Racetrack ○
+147,147,2000602,Kyoto Racetrack ○
+147,147,2000603,Kyoto Racetrack ○
+147,147,2000701,Chukyo Racetrack ○
+147,147,2000702,Chukyo Racetrack ○
+147,147,2000703,Chukyo Racetrack ○
+147,147,2000801,Sapporo Racetrack ○
+147,147,2000802,Sapporo Racetrack ○
+147,147,2000803,Sapporo Racetrack ○
+147,147,2000901,Hakodate Racetrack ○
+147,147,2000902,Hakodate Racetrack ○
+147,147,2000903,Hakodate Racetrack ○
+147,147,2001001,Fukushima Racetrack ○
+147,147,2001002,Fukushima Racetrack ○
+147,147,2001003,Fukushima Racetrack ○
+147,147,2001101,Niigata Racetrack ○
+147,147,2001102,Niigata Racetrack ○
+147,147,2001103,Niigata Racetrack ○
+147,147,2001201,Kokura Racetrack ○
+147,147,2001202,Kokura Racetrack ○
+147,147,2001203,Kokura Racetrack ○
+147,147,2001301,Core Distance ○
+147,147,2001302,Core Distance ○
+147,147,2001303,Core Distance ○
+147,147,2001401,Non-Core Distances ○
+147,147,2001402,Non-Core Distances ○
+147,147,2001403,Non-Core Distances ○
+147,147,2001501,Track Condition (Good) ○
+147,147,2001502,Track Condition (Good) ○
+147,147,2001503,Track Condition (Good) ○
+147,147,2001601,Wicked Path ○
+147,147,2001602,Wicked Path ○
+147,147,2001603,Wicked Path ○
+147,147,2001701,Spring Girl ○
+147,147,2001702,Spring Girl ○
+147,147,2001703,Spring Girl ○
+147,147,2001801,Summer Girl ○
+147,147,2001802,Summer Girl ○
+147,147,2001803,Summer Girl ○
+147,147,2001901,Autumn Girl ○
+147,147,2001902,Autumn Girl ○
+147,147,2001903,Autumn Girl ○
+147,147,2002001,Winter Girl ○
+147,147,2002002,Winter Girl ○
+147,147,2002003,Winter Girl ○
+147,147,2002101,Sunny Days ○
+147,147,2002102,Sunny Days ○
+147,147,2002103,Sunny Days ○
+147,147,2002201,Cloudy Days ○
+147,147,2002202,Cloudy Days ○
+147,147,2002203,Cloudy Days ○
+147,147,2002301,Rainy Day ○
+147,147,2002302,Rainy Day ○
+147,147,2002303,Rainy Day ○
+147,147,2002401,Snowy Days ○
+147,147,2002402,Snowy Days ○
+147,147,2002403,Snowy Days ○
+147,147,2002501,Inner Gate Affinity ○
+147,147,2002502,Inner Gate Affinity ○
+147,147,2002503,Inner Gate Affinity ○
+147,147,2002601,Outer Gate Affinity ○
+147,147,2002602,Outer Gate Affinity ○
+147,147,2002603,Outer Gate Affinity ○
+147,147,2002701,The One ○
+147,147,2002702,The One ○
+147,147,2002703,The One ○
+147,147,2002801,Competitive Spirit ○
+147,147,2002802,Competitive Spirit ○
+147,147,2002803,Competitive Spirit ○
+147,147,2002901,Eyes On You ○
+147,147,2002902,Eyes On You ○
+147,147,2002903,Eyes On You ○
+147,147,2003001,Underdog ○
+147,147,2003002,Underdog ○
+147,147,2003003,Underdog ○
+147,147,2003301,Clever Cornerer ○
+147,147,2003302,Clever Cornerer ○
+147,147,2003303,Clever Cornerer ○
+147,147,2003401,Corner Accel ○
+147,147,2003402,Corner Accel ○
+147,147,2003403,Corner Accel ○
+147,147,2003501,Corner Recovery ○
+147,147,2003502,Corner Recovery ○
+147,147,2003503,Corner Recovery ○
+147,147,2003601,Straight Skill
+147,147,2003602,Straight Skill
+147,147,2003603,Straight Skill
+147,147,2003701,Straight Accel
+147,147,2003702,Straight Accel
+147,147,2003703,Straight Accel
+147,147,2003801,Straight Recovery
+147,147,2003802,Straight Recovery
+147,147,2003803,Straight Recovery
+147,147,2004301,Focus
+147,147,2004302,Focus
+147,147,2004303,Focus
+147,147,2004401,Undercover
+147,147,2004402,Undercover
+147,147,2004403,Undercover
+147,147,2004501,Position Sense
+147,147,2004502,Position Sense
+147,147,2004503,Position Sense
+147,147,2004601,Up The Pace
+147,147,2004602,Up The Pace
+147,147,2004603,Up The Pace
+147,147,2004701,Keep the Pace
+147,147,2004702,Keep the Pace
+147,147,2004703,Keep the Pace
+147,147,2004801,Crowded Calm
+147,147,2004802,Crowded Calm
+147,147,2004803,Crowded Calm
+147,147,2004901,Slight Detour
+147,147,2004902,Slight Detour
+147,147,2004903,Slight Detour
+147,147,2005001,Improvise
+147,147,2005002,Improvise
+147,147,2005003,Improvise
+147,147,2005101,Last Leg
+147,147,2005102,Last Leg
+147,147,2005103,Last Leg
+147,147,2005301,Frontrunner
+147,147,2005302,Frontrunner
+147,147,2005303,Frontrunner
+147,147,2005401,Fast Paced
+147,147,2005402,Fast Paced
+147,147,2005403,Fast Paced
+147,147,2005501,"Press Forward, Ready!"
+147,147,2005502,"Press Forward, Ready!"
+147,147,2005503,"Press Forward, Ready!"
+147,147,2005601,Stamina Keep
+147,147,2005602,Stamina Keep
+147,147,2005603,Stamina Keep
+147,147,2005701,Favorite Place
+147,147,2005702,Favorite Place
+147,147,2005703,Favorite Place
+147,147,2005801,Passing Preparations
+147,147,2005802,Passing Preparations
+147,147,2005803,Passing Preparations
+147,147,2005901,Position Swiper
+147,147,2005902,Position Swiper
+147,147,2005903,Position Swiper
+147,147,2006001,Between the Lines
+147,147,2006002,Between the Lines
+147,147,2006003,Between the Lines
+147,147,2006101,"Outside Pass, Ready!"
+147,147,2006102,"Outside Pass, Ready!"
+147,147,2006103,"Outside Pass, Ready!"
+147,147,2006201,On Standby
+147,147,2006202,On Standby
+147,147,2006203,On Standby
+147,147,2006301,Master Trickster
+147,147,2006302,Master Trickster
+147,147,2006303,Master Trickster
+147,147,2006401,Straight Shot
+147,147,2006402,Straight Shot
+147,147,2006403,Straight Shot
+147,147,2006501,Sprinting Gear
+147,147,2006502,Sprinting Gear
+147,147,2006503,Sprinting Gear
+147,147,2006601,Wait and See
+147,147,2006602,Wait and See
+147,147,2006603,Wait and See
+147,147,2006701,Draw Forward
+147,147,2006702,Draw Forward
+147,147,2006703,Draw Forward
+147,147,2006801,Positive Planning
+147,147,2006802,Positive Planning
+147,147,2006803,Positive Planning
+147,147,2006901,Progress Peek
+147,147,2006902,Progress Peek
+147,147,2006903,Progress Peek
+147,147,2007001,Updraft
+147,147,2007002,Updraft
+147,147,2007003,Updraft
+147,147,2007101,Bright Future
+147,147,2007102,Bright Future
+147,147,2007103,Bright Future
+147,147,2007201,Uptempo
+147,147,2007202,Uptempo
+147,147,2007203,Uptempo
+147,147,2007301,Stand Your Ground
+147,147,2007302,Stand Your Ground
+147,147,2007303,Stand Your Ground
+147,147,2007401,Deep Breaths
+147,147,2007402,Deep Breaths
+147,147,2007403,Deep Breaths
+147,147,2007501,King of the Castle
+147,147,2007502,King of the Castle
+147,147,2007503,King of the Castle
+147,147,2007601,Backup Belly
+147,147,2007602,Backup Belly
+147,147,2007603,Backup Belly
+147,147,2007701,Trick (Front)
+147,147,2007702,Trick (Front)
+147,147,2007703,Trick (Front)
+147,147,2007801,Trick (Back)
+147,147,2007802,Trick (Back)
+147,147,2007803,Trick (Back)
+147,147,2007901,Frantic Runners
+147,147,2007902,Frantic Runners
+147,147,2007903,Frantic Runners
+147,147,2008001,Frantic Leaders
+147,147,2008002,Frantic Leaders
+147,147,2008003,Frantic Leaders
+147,147,2008101,Frantic Betweeners
+147,147,2008102,Frantic Betweeners
+147,147,2008103,Frantic Betweeners
+147,147,2008201,Frantic Chasers
+147,147,2008202,Frantic Chasers
+147,147,2008203,Frantic Chasers
+147,147,2008301,Runners Restraint
+147,147,2008302,Runners Restraint
+147,147,2008303,Runners Restraint
+147,147,2008401,Panicked Runners
+147,147,2008402,Panicked Runners
+147,147,2008403,Panicked Runners
+147,147,2008501,Faltering Runners
+147,147,2008502,Faltering Runners
+147,147,2008503,Faltering Runners
+147,147,2008601,Leaders Restraint
+147,147,2008602,Leaders Restraint
+147,147,2008603,Leaders Restraint
+147,147,2008701,Panicked Leaders
+147,147,2008702,Panicked Leaders
+147,147,2008703,Panicked Leaders
+147,147,2008801,Faltering Leaders
+147,147,2008802,Faltering Leaders
+147,147,2008803,Faltering Leaders
+147,147,2008901,Betweeners Restraint
+147,147,2008902,Betweeners Restraint
+147,147,2008903,Betweeners Restraint
+147,147,2009001,Panicked Betweener
+147,147,2009002,Panicked Betweener
+147,147,2009003,Panicked Betweener
+147,147,2009101,Faltering Betweeners
+147,147,2009102,Faltering Betweeners
+147,147,2009103,Faltering Betweeners
+147,147,2009201,Chasers Restraint
+147,147,2009202,Chasers Restraint
+147,147,2009203,Chasers Restraint
+147,147,2009301,Panicked Chasers
+147,147,2009302,Panicked Chasers
+147,147,2009303,Panicked Chasers
+147,147,2009401,Faltering Chasers
+147,147,2009402,Faltering Chasers
+147,147,2009403,Faltering Chasers
+147,147,2009501,Ooi Racetrack ○
+147,147,2009502,Ooi Racetrack ○
+147,147,2009503,Ooi Racetrack ○
+147,147,2009601,Short Distance Straights ○
+147,147,2009602,Short Distance Straights ○
+147,147,2009603,Short Distance Straights ○
+147,147,2009701,Short Distance Corners ○
+147,147,2009702,Short Distance Corners ○
+147,147,2009703,Short Distance Corners ○
+147,147,2009801,Big Lead
+147,147,2009802,Big Lead
+147,147,2009803,Big Lead
+147,147,2009901,Countermeasures
+147,147,2009902,Countermeasures
+147,147,2009903,Countermeasures
+147,147,2010001,Calculated Preparations
+147,147,2010002,Calculated Preparations
+147,147,2010003,Calculated Preparations
+147,147,2010101,Final Nail
+147,147,2010102,Final Nail
+147,147,2010103,Final Nail
+147,147,2010201,No Running Allowed
+147,147,2010202,No Running Allowed
+147,147,2010203,No Running Allowed
+147,147,2010301,Mile Straights ○
+147,147,2010302,Mile Straights ○
+147,147,2010303,Mile Straights ○
+147,147,2010401,Mile Corner ○
+147,147,2010402,Mile Corner ○
+147,147,2010403,Mile Corner ○
+147,147,2010501,Shift Gears
+147,147,2010502,Shift Gears
+147,147,2010503,Shift Gears
+147,147,2010601,Acceleration
+147,147,2010602,Acceleration
+147,147,2010603,Acceleration
+147,147,2010701,Rival Spirit
+147,147,2010702,Rival Spirit
+147,147,2010703,Rival Spirit
+147,147,2010801,Speed Eater
+147,147,2010802,Speed Eater
+147,147,2010803,Speed Eater
+147,147,2010901,Opener
+147,147,2010902,Opener
+147,147,2010903,Opener
+147,147,2011001,Medium Distance Straights ○
+147,147,2011002,Medium Distance Straights ○
+147,147,2011003,Medium Distance Straights ○
+147,147,2011101,Medium Distance Corner ○
+147,147,2011102,Medium Distance Corner ○
+147,147,2011103,Medium Distance Corner ○
+147,147,2011201,Hawkeye
+147,147,2011202,Hawkeye
+147,147,2011203,Hawkeye
+147,147,2011301,Inazuma Step
+147,147,2011302,Inazuma Step
+147,147,2011303,Inazuma Step
+147,147,2011401,Light Step
+147,147,2011402,Light Step
+147,147,2011403,Light Step
+147,147,2011501,Binding Chains
+147,147,2011502,Binding Chains
+147,147,2011503,Binding Chains
+147,147,2011601,A Gentle Whisper
+147,147,2011602,A Gentle Whisper
+147,147,2011603,A Gentle Whisper
+147,147,2011701,Long Distance Straight ○
+147,147,2011702,Long Distance Straight ○
+147,147,2011703,Long Distance Straight ○
+147,147,2011801,Long Distance Corner ○
+147,147,2011802,Long Distance Corner ○
+147,147,2011803,Long Distance Corner ○
+147,147,2011901,Keep the Lead
+147,147,2011902,Keep the Lead
+147,147,2011903,Keep the Lead
+147,147,2012001,Pass Expert
+147,147,2012002,Pass Expert
+147,147,2012003,Pass Expert
+147,147,2012101,Press the Attack
+147,147,2012102,Press the Attack
+147,147,2012103,Press the Attack
+147,147,2012201,Stamina Eater
+147,147,2012202,Stamina Eater
+147,147,2012203,Stamina Eater
+147,147,2012301,Smoke Screen
+147,147,2012302,Smoke Screen
+147,147,2012303,Smoke Screen
+147,147,2012401,Runner's Straight ○
+147,147,2012402,Runner's Straight ○
+147,147,2012403,Runner's Straight ○
+147,147,2012501,Runner's Corner ○
+147,147,2012502,Runner's Corner ○
+147,147,2012503,Runner's Corner ○
+147,147,2012601,Danger Avoidance
+147,147,2012602,Danger Avoidance
+147,147,2012603,Danger Avoidance
+147,147,2012701,Lead Pride
+147,147,2012702,Lead Pride
+147,147,2012703,Lead Pride
+147,147,2012801,Leave it to vigour!
+147,147,2012802,Leave it to vigour!
+147,147,2012803,Leave it to vigour!
+147,147,2012901,Next Steps
+147,147,2012902,Next Steps
+147,147,2012903,Next Steps
+147,147,2013001,Restart
+147,147,2013002,Restart
+147,147,2013003,Restart
+147,147,2013101,Leader's Straights ○
+147,147,2013102,Leader's Straights ○
+147,147,2013103,Leader's Straights ○
+147,147,2013201,Leaders Corner ○
+147,147,2013202,Leaders Corner ○
+147,147,2013203,Leaders Corner ○
+147,147,2013301,Clever Step
+147,147,2013302,Clever Step
+147,147,2013303,Clever Step
+147,147,2013401,Straight Down
+147,147,2013402,Straight Down
+147,147,2013403,Straight Down
+147,147,2013501,Nutritional Supplements
+147,147,2013502,Nutritional Supplements
+147,147,2013503,Nutritional Supplements
+147,147,2013601,Redo
+147,147,2013602,Redo
+147,147,2013603,Redo
+147,147,2013701,Derangement
+147,147,2013702,Derangement
+147,147,2013703,Derangement
+147,147,2013801,Betweener's Straights ○
+147,147,2013802,Betweener's Straights ○
+147,147,2013803,Betweener's Straights ○
+147,147,2013901,Betweener's Corner ○
+147,147,2013902,Betweener's Corner ○
+147,147,2013903,Betweener's Corner ○
+147,147,2014001,Hard Worker
+147,147,2014002,Hard Worker
+147,147,2014003,Hard Worker
+147,147,2014101,100K Horsepower
+147,147,2014102,100K Horsepower
+147,147,2014103,100K Horsepower
+147,147,2014201,A Little Break
+147,147,2014202,A Little Break
+147,147,2014203,A Little Break
+147,147,2014301,Reading Comprehension
+147,147,2014302,Reading Comprehension
+147,147,2014303,Reading Comprehension
+147,147,2014401,Sharp Gaze
+147,147,2014402,Sharp Gaze
+147,147,2014403,Sharp Gaze
+147,147,2014501,Chasers Straights ○
+147,147,2014502,Chasers Straights ○
+147,147,2014503,Chasers Straights ○
+147,147,2014601,Chaser's Corner ○
+147,147,2014602,Chaser's Corner ○
+147,147,2014603,Chaser's Corner ○
+147,147,2014701,See Right Through
+147,147,2014702,See Right Through
+147,147,2014703,See Right Through
+147,147,2014801,Winding Down
+147,147,2014802,Winding Down
+147,147,2014803,Winding Down
+147,147,2014901,Serene
+147,147,2014902,Serene
+147,147,2014903,Serene
+147,147,2015001,Tactician
+147,147,2015002,Tactician
+147,147,2015003,Tactician
+147,147,2015101,Sightlines
+147,147,2015102,Sightlines
+147,147,2015103,Sightlines
+147,147,2015201,Runner's Tricks ○
+147,147,2015202,Runner's Tricks ○
+147,147,2015203,Runner's Tricks ○
+147,147,2015301,Leaders Tricks ○
+147,147,2015302,Leaders Tricks ○
+147,147,2015303,Leaders Tricks ○
+147,147,2015401,Betweener's Tricks ○
+147,147,2015402,Betweener's Tricks ○
+147,147,2015403,Betweener's Tricks ○
+147,147,2015501,Chasers Tricks ○
+147,147,2015502,Chasers Tricks ○
+147,147,2015503,Chasers Tricks ○
+147,147,2015601,Lucky Seven
+147,147,2015602,Lucky Seven
+147,147,2015603,Lucky Seven
+147,147,2015701,Triple 7s
+147,147,2015702,Triple 7s
+147,147,2015703,Triple 7s
+147,147,2015801,Mountain Climber
+147,147,2015802,Mountain Climber
+147,147,2015803,Mountain Climber
+147,147,2015901,Big Fan
+147,147,2015902,Big Fan
+147,147,2015903,Big Fan
+147,147,2016001,Groundwork
+147,147,2016002,Groundwork
+147,147,2016003,Groundwork
+147,147,2016101,Hold Your Tail High
+147,147,2016102,Hold Your Tail High
+147,147,2016103,Hold Your Tail High
+147,147,2016201,Shake It Out
+147,147,2016202,Shake It Out
+147,147,2016203,Shake It Out
+147,147,2016301,Sympathy
+147,147,2016302,Sympathy
+147,147,2016303,Sympathy
+147,147,2016401,Lone Wolf
+147,147,2016402,Lone Wolf
+147,147,2016403,Lone Wolf
+147,147,2016501,Slipstream
+147,147,2016502,Slipstream
+147,147,2016503,Slipstream
+147,147,2016601,Playtime's Over!
+147,147,2016602,Playtime's Over!
+147,147,2016603,Playtime's Over!
+147,147,2016701,Recommendation
+147,147,2016702,Recommendation
+147,147,2016703,Recommendation
+147,147,3000101,URAシナリオ
+147,147,3000102,URAシナリオ
+147,147,3000103,URAシナリオ
+147,147,10010101,Shooting Star
+147,147,10010102,Shooting Star
+147,147,10010103,Shooting Star
+147,147,10020101,I'm not giving up the lead…!
+147,147,10020102,I'm not giving up the lead…!
+147,147,10020103,I'm not giving up the lead…!
+147,147,10030101,Ultimate Teio Step
+147,147,10030102,Ultimate Teio Step
+147,147,10030103,Ultimate Teio Step
+147,147,10030201,It's going to be me
+147,147,10030202,It's going to be me
+147,147,10030203,It's going to be me
+147,147,10040101,Red Flame Gear/LP1211-M
+147,147,10040102,Red Flame Gear/LP1211-M
+147,147,10040103,Red Flame Gear/LP1211-M
+147,147,10060101,The Beat of Victory
+147,147,10060102,The Beat of Victory
+147,147,10060103,The Beat of Victory
+147,147,10070101,"Unsinkable ship, anchored!"
+147,147,10070102,"Unsinkable ship, anchored!"
+147,147,10070103,"Unsinkable ship, anchored!"
+147,147,10080101,Cutting × DRIVE!
+147,147,10080102,Cutting × DRIVE!
+147,147,10080103,Cutting × DRIVE!
+147,147,10090101,Brilliant Red Ace
+147,147,10090102,Brilliant Red Ace
+147,147,10090103,Brilliant Red Ace
+147,147,10100101,Victory Shot!
+147,147,10100102,Victory Shot!
+147,147,10100103,Victory Shot!
+147,147,10110101,"Where there's a will, there's a way"
+147,147,10110102,"Where there's a will, there's a way"
+147,147,10110103,"Where there's a will, there's a way"
+147,147,10110201,Gain Superior Heal
+147,147,10110202,Gain Superior Heal
+147,147,10110203,Gain Superior Heal
+147,147,10120101,One-on-one! Dead heat!
+147,147,10120102,One-on-one! Dead heat!
+147,147,10120103,One-on-one! Dead heat!
+147,147,10130101,Fulfilling your noble duty
+147,147,10130102,Fulfilling your noble duty
+147,147,10130103,Fulfilling your noble duty
+147,147,10130201,For the Strongest Name
+147,147,10130202,For the Strongest Name
+147,147,10130203,For the Strongest Name
+147,147,10140101,Plancha ☆ Ganador
+147,147,10140102,Plancha ☆ Ganador
+147,147,10140103,Plancha ☆ Ganador
+147,147,10140201,Condor Onslaught
+147,147,10140202,Condor Onslaught
+147,147,10140203,Condor Onslaught
+147,147,10150101,Dance for Vittoria
+147,147,10150102,Dance for Vittoria
+147,147,10150103,Dance for Vittoria
+147,147,10160101,Shadow Break
+147,147,10160102,Shadow Break
+147,147,10160103,Shadow Break
+147,147,10170101,"Thou, witness the heavenly might of the Emperor"
+147,147,10170102,"Thou, witness the heavenly might of the Emperor"
+147,147,10170103,"Thou, witness the heavenly might of the Emperor"
+147,147,10180101,Blaze of Pride
+147,147,10180102,Blaze of Pride
+147,147,10180103,Blaze of Pride
+147,147,10180201,"Summer Breeze, The Eternal Moment"
+147,147,10180202,"Summer Breeze, The Eternal Moment"
+147,147,10180203,"Summer Breeze, The Eternal Moment"
+147,147,10200101,Angling×Scheming
+147,147,10200102,Angling×Scheming
+147,147,10200103,Angling×Scheming
+147,147,10230101,∴win Q.E.D.
+147,147,10230102,∴win Q.E.D.
+147,147,10230103,∴win Q.E.D.
+147,147,10240101,Inspiration ☆ Landing
+147,147,10240102,Inspiration ☆ Landing
+147,147,10240103,Inspiration ☆ Landing
+147,147,10240201,Flowery ☆ Maneuver
+147,147,10240202,Flowery ☆ Maneuver
+147,147,10240203,Flowery ☆ Maneuver
+147,147,10260101,G00 1st.F∞;
+147,147,10260102,G00 1st.F∞;
+147,147,10260103,G00 1st.F∞;
+147,147,10270101,Let's anabolic!
+147,147,10270102,Let's anabolic!
+147,147,10270103,Let's anabolic!
+147,147,10300101,Blue Rose Chaser
+147,147,10300102,Blue Rose Chaser
+147,147,10300103,Blue Rose Chaser
+147,147,10320101,U=ma2
+147,147,10320102,U=ma2
+147,147,10320103,U=ma2
+147,147,10350101,"The ticket to victory, for you!"
+147,147,10350102,"The ticket to victory, for you!"
+147,147,10350103,"The ticket to victory, for you!"
+147,147,10380101,#LookatCurren
+147,147,10380102,#LookatCurren
+147,147,10380103,#LookatCurren
+147,147,10410101,Honor Student x Bakushin = Big Victory
+147,147,10410102,Honor Student x Bakushin = Big Victory
+147,147,10410103,Honor Student x Bakushin = Big Victory
+147,147,10450101,Purity of Heart
+147,147,10450102,Purity of Heart
+147,147,10450103,Purity of Heart
+147,147,10460101,Sparkling☆STARDOM
+147,147,10460102,Sparkling☆STARDOM
+147,147,10460103,Sparkling☆STARDOM
+147,147,10500101,Nemesis
+147,147,10500102,Nemesis
+147,147,10500103,Nemesis
+147,147,10520101,Exciting Climax
+147,147,10520102,Exciting Climax
+147,147,10520103,Exciting Climax
+147,147,10560101,"I'm coming, I'm coming, I'm coming!"
+147,147,10560102,"I'm coming, I'm coming, I'm coming!"
+147,147,10560103,"I'm coming, I'm coming, I'm coming!"
+147,147,10600101,"Surely, beyond...!"
+147,147,10600102,"Surely, beyond...!"
+147,147,10600103,"Surely, beyond...!"
+147,147,10610101,Pride of KING
+147,147,10610102,Pride of KING
+147,147,10610103,Pride of KING
