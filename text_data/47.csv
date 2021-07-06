@@ -1,0 +1,421 @@
+id,category,index,text
+47,47,10071,Warning Shot!
+47,47,10081,Accelerator X
+47,47,10091,Red Ace
+47,47,10111,Desire to Win
+47,47,10141,Hot Blooded ☆ Amigo
+47,47,10181,Empress・Pride
+47,47,10241,Victory Kiss ☆
+47,47,10271,Burning Muscles
+47,47,10321,introduction：My body
+47,47,10351,Full Power for V
+47,47,10411,Class President + Speed = Bakushin
+47,47,10451,Clear Heart
+47,47,10521,"Ready, Steady, Go!"
+47,47,10561,"Come, Come!"
+47,47,10601,"You know, sometimes even I can…"
+47,47,10611,Call me KING
+47,47,100011,Shooting Star
+47,47,100021,I'm not giving up the lead…!
+47,47,100031,Ultimate Teio Step
+47,47,100041,Red Flame Gear/LP1211-M
+47,47,100061,The Beat of Victory
+47,47,100071,"Unsinkable ship, anchored!"
+47,47,100081,Cutting × DRIVE!
+47,47,100091,Brilliant Red Ace
+47,47,100101,Victory Shot!
+47,47,100111,"Where there's a will, there's a way"
+47,47,100121,One-on-one! Dead heat!
+47,47,100131,Fulfilling your noble duty
+47,47,100141,Plancha ☆ Ganador
+47,47,100151,Dance for Vittoria
+47,47,100161,Shadow Break
+47,47,100171,"Thou, witness the heavenly might of the Emperor"
+47,47,100181,Blaze of Pride
+47,47,100201,Angling×Scheming
+47,47,100231,∴win Q.E.D.
+47,47,100241,Inspiration ☆ Landing
+47,47,100261,G00 1st.F∞;
+47,47,100271,Let's anabolic!
+47,47,100301,Blue Rose Chaser
+47,47,100321,U=ma2
+47,47,100351,"The ticket to victory, for you!"
+47,47,100381,#LookatCurren
+47,47,100411,Honor Student x Bakushin = Big Victory
+47,47,100451,Purity of Heart
+47,47,100461,Sparkling☆STARDOM
+47,47,100501,Nemesis
+47,47,100521,Exciting Climax
+47,47,100561,"I'm coming, I'm coming, I'm coming!"
+47,47,100601,"Surely, beyond...!"
+47,47,100611,Pride of KING
+47,47,110031,It's going to be me
+47,47,110111,Gain Superior Heal
+47,47,110131,For the Strongest Name
+47,47,110141,Condor Onslaught
+47,47,110181,"Summer Breeze, The Eternal Moment"
+47,47,110241,Flowery ☆ Maneuver
+47,47,200011,Right Turns ◎
+47,47,200012,Right Turns ○
+47,47,200013,Right Turns ×
+47,47,200021,Left Turns ◎
+47,47,200022,Left Turns ○
+47,47,200023,Left Turns ×
+47,47,200031,Tokyo Racetrack ◎
+47,47,200032,Tokyo Racetrack ○
+47,47,200033,Tokyo Racetrack ×
+47,47,200041,Nakayama Racetrack ◎
+47,47,200042,Nakayama Racetrack ○
+47,47,200043,Nakayama Racetrack ×
+47,47,200051,Hanshin Racetrack ◎
+47,47,200052,Hanshin Racetrack ○
+47,47,200053,Hanshin Racetrack ×
+47,47,200061,Kyoto Racetrack ◎
+47,47,200062,Kyoto Racetrack ○
+47,47,200063,Kyoto Racetrack ×
+47,47,200071,Chukyo Racetrack ◎
+47,47,200072,Chukyo Racetrack ○
+47,47,200073,Chukyo Racetrack ×
+47,47,200081,Sapporo Racetrack ◎
+47,47,200082,Sapporo Racetrack ○
+47,47,200083,Sapporo Racetrack ×
+47,47,200091,Hakodate Racetrack ◎
+47,47,200092,Hakodate Racetrack ○
+47,47,200093,Hakodate Racetrack ×
+47,47,200101,Fukushima Racetrack ◎
+47,47,200102,Fukushima Racetrack ○
+47,47,200103,Fukushima Racetrack ×
+47,47,200111,Niigata Racetrack ◎
+47,47,200112,Niigata Racetrack ○
+47,47,200113,Niigata Racetrack ×
+47,47,200121,Kokura Racetrack ◎
+47,47,200122,Kokura Racetrack ○
+47,47,200123,Kokura Racetrack ×
+47,47,200131,Core Distance ◎
+47,47,200132,Core Distance ○
+47,47,200133,Core Distance ×
+47,47,200141,Non-Core Distances ◎
+47,47,200142,Non-Core Distances ○
+47,47,200143,Non-Core Distances ×
+47,47,200151,Track Condition (Good) ◎
+47,47,200152,Track Condition (Good) ○
+47,47,200153,Track Condition (Good) ×
+47,47,200161,Wicked Path ◎
+47,47,200162,Wicked Path ○
+47,47,200163,Wicked Path ×
+47,47,200171,Spring Girl ◎
+47,47,200172,Spring Girl ○
+47,47,200173,Spring Girl ×
+47,47,200181,Summer Girl ◎
+47,47,200182,Summer Girl ○
+47,47,200183,Summer Girl ×
+47,47,200191,Autumn Girl ◎
+47,47,200192,Autumn Girl ○
+47,47,200193,Autumn Girl ×
+47,47,200201,Winter Girl ◎
+47,47,200202,Winter Girl ○
+47,47,200203,Winter Girl ×
+47,47,200211,Sunny Days ◎
+47,47,200212,Sunny Days ○
+47,47,200221,Cloudy Days ◎
+47,47,200222,Cloudy Days ○
+47,47,200231,Rainy Day ◎
+47,47,200232,Rainy Day ○
+47,47,200233,Rainy Day ×
+47,47,200241,Snowy Days ◎
+47,47,200242,Snowy Days ○
+47,47,200251,Inner Gate Affinity ◎
+47,47,200252,Inner Gate Affinity ○
+47,47,200253,Inner Gate Affinity ×
+47,47,200261,Outer Gate Affinity ◎
+47,47,200262,Outer Gate Affinity ○
+47,47,200263,Outer Gate Affinity ×
+47,47,200271,The One ◎
+47,47,200272,The One ○
+47,47,200281,Competitive Spirit ◎
+47,47,200282,Competitive Spirit ○
+47,47,200283,Introverted
+47,47,200291,Eyes On You ◎
+47,47,200292,Eyes On You ○
+47,47,200301,Underdog ◎
+47,47,200302,Underdog ○
+47,47,200311,GⅠ Dislike
+47,47,200321,Timid
+47,47,200331,Archline Professor
+47,47,200332,Clever Cornerer ○
+47,47,200333,Clever Cornerer ×
+47,47,200341,Curve Sommelier
+47,47,200342,Corner Accel ○
+47,47,200343,Corner Accel ×
+47,47,200351,Arc Maestro
+47,47,200352,Corner Recovery ○
+47,47,200353,Corner Recovery ×
+47,47,200361,Like The Wind
+47,47,200362,Straight Skill
+47,47,200371,Gust of Wind
+47,47,200372,Straight Accel
+47,47,200381,Breath of Fresh Air
+47,47,200382,Straight Recovery
+47,47,200391,Hill Dislike
+47,47,200401,Crowd Hater
+47,47,200411,Resignation
+47,47,200421,Negligence
+47,47,200431,Concentration
+47,47,200432,Focus
+47,47,200433,Gate Trouble
+47,47,200441,Will of Steel
+47,47,200442,Undercover
+47,47,200451,Star of the Show
+47,47,200452,Position Sense
+47,47,200461,Now I'm Pumped!
+47,47,200462,Up The Pace
+47,47,200471,Indomitable Heart
+47,47,200472,Keep the Pace
+47,47,200481,Where the Wind Blows
+47,47,200482,Crowded Calm
+47,47,200491,Non-stop Girl
+47,47,200492,Slight Detour
+47,47,200501,Magician of the Lane
+47,47,200502,Improvise
+47,47,200511,Heart and Soul
+47,47,200512,Last Leg
+47,47,200521,Running Idle
+47,47,200531,Fortune Favors the Fast
+47,47,200532,Frontrunner
+47,47,200541,Escape Artist
+47,47,200542,Fast Paced
+47,47,200551,Runaway
+47,47,200552,"Press Forward, Ready!"
+47,47,200561,Calm and Composed
+47,47,200562,Stamina Keep
+47,47,200571,Race Planner
+47,47,200572,Favorite Place
+47,47,200581,Speed Star
+47,47,200582,Passing Preparations
+47,47,200591,Quick and Decisive
+47,47,200592,Position Swiper
+47,47,200601,Switch-up Pro
+47,47,200602,Between the Lines
+47,47,200611,Rising Dragon
+47,47,200612,"Outside Pass, Ready!"
+47,47,200621,Sleeping Lion
+47,47,200622,On Standby
+47,47,200631,Storm and Stress
+47,47,200632,Master Trickster
+47,47,200641,Imminent Shadow
+47,47,200642,Straight Shot
+47,47,200651,Sprint Turbo
+47,47,200652,Sprinting Gear
+47,47,200662,Wait and See
+47,47,200671,Glimmer of Shock
+47,47,200672,Draw Forward
+47,47,200681,Ruler of Mile
+47,47,200682,Positive Planning
+47,47,200691,Wisdom Eye
+47,47,200692,Progress Peek
+47,47,200701,Big Strides
+47,47,200702,Updraft
+47,47,200711,The One Who Clears The Path
+47,47,200712,Bright Future
+47,47,200721,Killer Tune
+47,47,200722,Uptempo
+47,47,200731,To Victory!
+47,47,200732,Stand Your Ground
+47,47,200741,Cooldown
+47,47,200742,Deep Breaths
+47,47,200751,Intrinsic Experience
+47,47,200752,King of the Castle
+47,47,200761,Fight or Flight
+47,47,200762,Backup Belly
+47,47,200771,Trick (Front)
+47,47,200781,Trick (Back)
+47,47,200791,Frantic Runners
+47,47,200801,Frantic Leaders
+47,47,200811,Frantic Betweeners
+47,47,200821,Frantic Chasers
+47,47,200831,Runners Restraint
+47,47,200841,Panicked Runners
+47,47,200851,Faltering Runners
+47,47,200861,Leaders Restraint
+47,47,200871,Panicked Leaders
+47,47,200881,Faltering Leaders
+47,47,200891,Betweeners Restraint
+47,47,200901,Panicked Betweener
+47,47,200911,Faltering Betweeners
+47,47,200921,Chasers Restraint
+47,47,200931,Panicked Chasers
+47,47,200941,Faltering Chasers
+47,47,200951,Ooi Racetrack ◎
+47,47,200952,Ooi Racetrack ○
+47,47,200953,Ooi Racetrack ×
+47,47,200961,Short Distance Straights ◎
+47,47,200962,Short Distance Straights ○
+47,47,200971,Short Distance Corners ◎
+47,47,200972,Short Distance Corners ○
+47,47,200981,Overwhelming Lead
+47,47,200982,Big Lead
+47,47,200991,Plan X
+47,47,200992,Countermeasures
+47,47,201001,Flawless Preparation!
+47,47,201002,Calculated Preparations
+47,47,201011,Bewitching
+47,47,201012,Final Nail
+47,47,201021,Escape Prohibition
+47,47,201022,No Running Allowed
+47,47,201031,Mile Straights ◎
+47,47,201032,Mile Straights ○
+47,47,201041,Mile Corner ◎
+47,47,201042,Mile Corner ○
+47,47,201051,Gear Change
+47,47,201052,Shift Gears
+47,47,201061,Accel Full Throttle!
+47,47,201062,Acceleration
+47,47,201071,Big Sister Disposition
+47,47,201072,Rival Spirit
+47,47,201081,Speed Greed
+47,47,201082,Speed Eater
+47,47,201091,Battle Formation
+47,47,201092,Opener
+47,47,201101,Medium Distance Straights ◎
+47,47,201102,Medium Distance Straights ○
+47,47,201111,Medium Distance Corner ◎
+47,47,201112,Medium Distance Corner ○
+47,47,201121,Clairvoyance
+47,47,201122,Hawkeye
+47,47,201131,Lightning Step
+47,47,201132,Inazuma Step
+47,47,201141,Miracle Step
+47,47,201142,Light Step
+47,47,201151,Mono Poisoner
+47,47,201152,Binding Chains
+47,47,201161,A Charming Whisper
+47,47,201162,A Gentle Whisper
+47,47,201171,Long Distance Straight ◎
+47,47,201172,Long Distance Straight ○
+47,47,201181,Long Distance Corner ◎
+47,47,201182,Long Distance Corner ○
+47,47,201191,Vanguard's Wisdom
+47,47,201192,Keep the Lead
+47,47,201202,Pass Expert
+47,47,201211,Tempestuous Pressure
+47,47,201212,Press the Attack
+47,47,201221,Stamina Greed
+47,47,201222,Stamina Eater
+47,47,201231,Conjurer
+47,47,201232,Smoke Screen
+47,47,201241,Runner's Straight ◎
+47,47,201242,Runner's Straight ○
+47,47,201251,Runner's Corner ◎
+47,47,201252,Runner's Corner ○
+47,47,201261,Sixth Sense
+47,47,201262,Danger Avoidance
+47,47,201272,Lead Pride
+47,47,201281,Wild Girl
+47,47,201282,Leave it to vigour!
+47,47,201291,Recombustion
+47,47,201292,Next Steps
+47,47,201302,Restart
+47,47,201311,Leader's Straights ◎
+47,47,201312,Leader's Straights ○
+47,47,201321,Leaders Corner ◎
+47,47,201322,Leaders Corner ○
+47,47,201331,Technician
+47,47,201332,Clever Step
+47,47,201341,Straight Down Resolution
+47,47,201342,Straight Down
+47,47,201351,Big Eater
+47,47,201352,Nutritional Supplements
+47,47,201361,Unbreakable Spirit
+47,47,201362,Redo
+47,47,201371,Glamorous Perturbation
+47,47,201372,Derangement
+47,47,201381,Betweener's Straights ◎
+47,47,201382,Betweener's Straights ○
+47,47,201391,Betweener's Corner ◎
+47,47,201392,Betweener's Corner ○
+47,47,201401,Laborious
+47,47,201402,Hard Worker
+47,47,201411,1M Horsepower
+47,47,201412,100K Horsepower
+47,47,201421,Relax
+47,47,201422,A Little Break
+47,47,201431,Seeing The Big Picture
+47,47,201432,Reading Comprehension
+47,47,201441,Watching All Directions
+47,47,201442,Sharp Gaze
+47,47,201451,Chasers Straights ◎
+47,47,201452,Chasers Straights ○
+47,47,201461,Chaser's Corner ◎
+47,47,201462,Chaser's Corner ○
+47,47,201471,Good Visibility! All Clear!
+47,47,201472,See Right Through
+47,47,201481,After School Specialist
+47,47,201482,Winding Down
+47,47,201491,Calm and Collected
+47,47,201492,Serene
+47,47,201501,Heavenly Warrior
+47,47,201502,Tactician
+47,47,201511,A Passionate Gaze
+47,47,201512,Sightlines
+47,47,201521,Runner's Tricks ◎
+47,47,201522,Runner's Tricks ○
+47,47,201531,Leaders Tricks ◎
+47,47,201532,Leaders Tricks ○
+47,47,201541,Betweener's Tricks ◎
+47,47,201542,Betweener's Tricks ○
+47,47,201551,Chasers Tricks ◎
+47,47,201552,Chasers Tricks ○
+47,47,201561,Super Lucky Seven
+47,47,201562,Lucky Seven
+47,47,201571,Triple 7s
+47,47,201581,Mountain Climber
+47,47,201591,Big Fan
+47,47,201601,Groundwork
+47,47,201611,Hold Your Tail High
+47,47,201621,Shake It Out
+47,47,201631,Sympathy
+47,47,201641,Lone Wolf
+47,47,201651,Slipstream
+47,47,201661,Playtime's Over!
+47,47,201671,Trending Charts!
+47,47,201672,Recommendation
+47,47,900011,Shooting Star
+47,47,900021,I'm not giving up the lead…!
+47,47,900031,Ultimate Teio Step
+47,47,900041,Red Flame Gear/LP1211-M
+47,47,900061,The Beat of Victory
+47,47,900071,"Unsinkable ship, anchored!"
+47,47,900081,Cutting × DRIVE!
+47,47,900091,Brilliant Red Ace
+47,47,900101,Victory Shot!
+47,47,900111,"Where there's a will, there's a way"
+47,47,900121,One-on-one! Dead heat!
+47,47,900131,Fulfilling your noble duty
+47,47,900141,Plancha ☆ Ganador
+47,47,900151,Dance for Vittoria
+47,47,900161,Shadow Break
+47,47,900171,"Thou, witness the heavenly might of the Emperor"
+47,47,900181,Blaze of Pride
+47,47,900201,Angling×Scheming
+47,47,900231,∴win Q.E.D.
+47,47,900241,Inspiration ☆ Landing
+47,47,900261,G00 1st.F∞;
+47,47,900271,Let's anabolic!
+47,47,900301,Blue Rose Chaser
+47,47,900321,U=ma2
+47,47,900351,"The ticket to victory, for you!"
+47,47,900381,#LookatCurren
+47,47,900411,Honor Student x Bakushin = Big Victory
+47,47,900451,Purity of Heart
+47,47,900461,Sparkling☆STARDOM
+47,47,900501,Nemesis
+47,47,900521,Exciting Climax
+47,47,900561,"I'm coming, I'm coming, I'm coming!"
+47,47,900601,"Surely, beyond...!"
+47,47,900611,Pride of KING
+47,47,910031,It's going to be me
+47,47,910111,Gain Superior Heal
+47,47,910131,For the Strongest Name
+47,47,910141,Condor Onslaught
+47,47,910181,"Summer Breeze, The Eternal Moment"
+47,47,910241,Flowery ☆ Maneuver
