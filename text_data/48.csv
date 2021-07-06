@@ -1,0 +1,421 @@
+id,category,index,text
+48,48,10071,From the middle of the race slightly increase your speed by running a long spurt
+48,48,10081,Increase speed and power lightly when close to the lead in last 200m
+48,48,10091,Be in the lead during the 2nd half of the race to gain slightly more power to help you stay in 1st place
+48,48,10111,Lightly increase speed when passing in the back in Final Leg straight.
+48,48,10141,Slightly easier to keep advantage if you have enough strength in the Final Leg straight
+48,48,10181,Lightly increase speed when passing in the back in last corner
+48,48,10241,Slightly easier to break away when competing in the last corner
+48,48,10271,Gain a slight increase in acceleration as you attempt to gain positions during the last corner of the race
+48,48,10321,Lightly recover stamina in the second half of the race by holding yourself back during corners
+48,48,10351,"On the final straight your desire not to lose, increases your speed lightly"
+48,48,10411,"While fighting for the lead during the second part of the race, lightly increase your speed through displaying your Bakushin power"
+48,48,10451,Be in a good position during the middle stage of the race to lightly recover your endurance
+48,48,10521,"Being at the back during the last corner, lightly restores your endurance when you see another horse girl"
+48,48,10561,"If during the last leg of the race your way to the front of the field is blocked, your power of divination will make it lightly easier to spot an opening"
+48,48,10601,"When you're in 3rd place at the end of the race and about to lose, you gain a little bit more fighting spirit and lightly increase your speed"
+48,48,10611,"If you can get calm and composed through the race, you will be able to showcase your ability and increase your speed for the last 200m"
+48,48,100011,Overtake the opponent in front of you during the last leg of the race to gain momentum and increase your speed
+48,48,100021,Be in the lead with a gap behind you at the last straight to increase your speed even more through your legs
+48,48,100031,Close down the leader on the final straight to greatly increase your speed even further through your brilliant leg work
+48,48,100041,Be close to the leader at the final corner to increase your acceleration by changing gears
+48,48,100061,Be close to the lead during the last 200m to make it easier to break through and find a way through the field
+48,48,100071,Gradually increase speed during the long spurt in Middle Leg
+48,48,100081,Increase speed and power when close to the lead in last 200m
+48,48,100091,Display your power in keeping the lead position during the latter half of the race
+48,48,100101,Be in a good position at the last corner to gain momentum and increase your acceleration
+48,48,100111,Increase speed when passing in the back in Final Leg straight
+48,48,100121,"On the last straight, gain speed when passing from the outside back"
+48,48,100131,Be close to the lead in the final corner to gain speed as you resolve yourself to not be overtaken
+48,48,100141,Easier to keep a good position in last straight with spare energy
+48,48,100151,Fight for the lead at the last corner to increase your speed through your kingly radiance
+48,48,100161,Increase speed with monstrous power on the final corner when passing from the outside
+48,48,100171,During the last leg of the race make three overtakes to strongly increase your speed on the final straight
+48,48,100181,Increase speed when passing in the back in last corner
+48,48,100201,"During the last corner, gain acceleration when in the first position"
+48,48,100231,Increase speed when passing in the front of the last corner
+48,48,100241,"After a struggle for the lead on the last corner, it becomes easier to break away during the final straight"
+48,48,100261,Lead by yourself without letting up until the final straight to increase your speed
+48,48,100271,Increase acceleration as you attempt to overtake in last corner
+48,48,100301,Break away on the last straight to steel your will and increase your speed
+48,48,100321,"When being held back on corners of the later half of the race, your endurance recovers"
+48,48,100351,Your speed increases on the last straight when competing for the lead
+48,48,100381,Gain momentum while in a good position when passing someone in the middle leg
+48,48,100411,"During the later half of the race, your speed increases when competing for the lead"
+48,48,100451,"Be in good position in Middle Leg to recover endurance "
+48,48,100461,Increase your momentum during the middle leg's straight with the feeling of keeping the lead from being overtaken
+48,48,100501,Increase speed in the last corner when coming up from the back of the pack
+48,48,100521,"When in the back in last corner, restore your endurance when you see another horse girl"
+48,48,100561,"When the front is packed during the last leg of the race, the oracle's power will open a path"
+48,48,100601,"When you're in 3rd place at the end of the race and about to lose, your speed increases"
+48,48,100611,"After proceeding through the race calmly, your speed drastically increases during the last 200m"
+48,48,110031,Increase speed in the last straight when chasing someone close to the lead
+48,48,110111,"During the Middle Leg, recover stamina when overtaken in the back of the pack"
+48,48,110131,Increase speed in the last straight when chasing someone close to the lead
+48,48,110141,"During the last corner, gain acceleration when aiming for the lead from the middle of the pack"
+48,48,110181,Increase speed if you're in the front during the Middle Leg
+48,48,110241,"During the last corner, increase speed if passing in the front; increase acceleration if passing in the back"
+48,48,200011,Become better at clockwise tracks
+48,48,200012,Become a little better at clockwise tracks
+48,48,200013,Become a little worse at clockwise tracks
+48,48,200021,Become better at left counterclockwise tracks
+48,48,200022,Become a little better at left counterclockwise track
+48,48,200023,Become a little worse at left counterclockwise track
+48,48,200031,Become better at Tokyo Racetrack
+48,48,200032,Become a little better at Tokyo Racetrack
+48,48,200033,Become a little worse at Tokyo Racetrack
+48,48,200041,Become better at Nakayama Racetrack
+48,48,200042,Become a little better at Nakayama Racetrack
+48,48,200043,Become a little worse at Nakayama Racetrack
+48,48,200051,Become better at Hanshin Racetrack
+48,48,200052,Become a little better at Hanshin Racetrack
+48,48,200053,Become a little worse at Hanshin Racetrack
+48,48,200061,Become better at Kyoto Racetrack
+48,48,200062,Become a little better at Kyoto Racetrack
+48,48,200063,Become a little worse at Kyoto Racetrack
+48,48,200071,Become better at Chukyo Racetrack
+48,48,200072,Become a little better at Chukyo Racetrack
+48,48,200073,Become a little worse at Chukyo Racetrack
+48,48,200081,Become better at Sapporo Racetrack
+48,48,200082,Become a little better at Sapporo Racetrack
+48,48,200083,Become a little worse at Sapporo Racetrack
+48,48,200091,Become better at Hakodate Racetrack
+48,48,200092,Become a little better at Hakodate Racetrack
+48,48,200093,Become a little worse at Hakodate Racetrack
+48,48,200101,Become better at Fukushima Racetrack
+48,48,200102,Become a little better at Fukushima Racetrack
+48,48,200103,Become a little worse at Fukushima Racetrack
+48,48,200111,Become better at Niigata Racetrack
+48,48,200112,Become a little better at Niigata Racetrack
+48,48,200113,Become a little worse at Niigata Racetrack
+48,48,200121,Become better at Ogura Racetrack
+48,48,200122,Become a little better at Ogura Racetrack
+48,48,200123,Become a little worse at Ogura Racetrack
+48,48,200131,Become better at Core Distances (Multiples of 400m)
+48,48,200132,Become a little better at Core Distances (Multiples of 400m)
+48,48,200133,Become a little worse at Core Distances (Multiples of 400m)
+48,48,200141,Become better at Non-Core Distances (Not Multiples of 400m)
+48,48,200142,Become a little better at Non-Core Distances (Not Multiples of 400m)
+48,48,200143,Become a little worse at Non-Core Distances (Not Multiples of 400m)
+48,48,200151,Become better on tracks in Good condition
+48,48,200152,Become a little better on tracks in Good condition
+48,48,200153,Become a little worse on tracks in Good condition
+48,48,200161,"Become better on Slightly Poor, Poor, and Bad condition tracks"
+48,48,200162,"Become a little better on Slightly Poor, Poor, and Bad condition tracks"
+48,48,200163,"Become a little worse on Slightly Poor, Poor, and Bad condition tracks"
+48,48,200171,Become better at races in the Spring
+48,48,200172,Become a little better at races in the Spring
+48,48,200173,Become a little worse at races in the Spring
+48,48,200181,Become better at races in the Summer
+48,48,200182,Become a little better at races in the Summer
+48,48,200183,Become a little worse at races in the Summer
+48,48,200191,Become better at races in the Autumn
+48,48,200192,Become a little better at races in the Autumn
+48,48,200193,Become a little worse at races in the Autumn
+48,48,200201,Become better at races in the Winter
+48,48,200202,Become a little better at races in the Winter
+48,48,200203,Become a little worse at races in the Winter
+48,48,200211,Become better at races on Sunny Days
+48,48,200212,Become a little better at races on Sunny Days
+48,48,200221,Become better at races on a Cloudy Day
+48,48,200222,Become a little better at races on a Cloudy Day
+48,48,200231,Become better at races on a Rainy Day
+48,48,200232,Become a little better at races on a Rainy Day
+48,48,200233,Become a little worse at races on a Rainy Day
+48,48,200241,Become better at races on Snowy Days
+48,48,200242,Become a little better at races on Snowy Days
+48,48,200251,Become better at races when starting at gate 1-3
+48,48,200252,Become a little better at races when starting at gate 1-3
+48,48,200253,Become a little worse at races when starting at gate 1-3
+48,48,200261,Become better at races when starting at gate 6-8
+48,48,200262,Become a little better at races when starting at gate 6-8
+48,48,200263,Become a little worse at races when starting at gate 6-8
+48,48,200271,Showing off your ability becomes easier when no other girls share your strategy
+48,48,200272,Showing off your ability becomes a little easier when no other girls share your strategy
+48,48,200281,Become better at showing off your ability when at least 6 other girls share your strategy
+48,48,200282,Become a little better at showing off your ability when at least 6 other girls share your strategy
+48,48,200283,Harder at showing off your ability when at least 6 other girls share your strategy
+48,48,200291,Become better at showing off your ability when sharing a strategy with the crowd favorite
+48,48,200292,Become a little better at showing off your ability when sharing a strategy with the crowd favorite
+48,48,200301,Become better at showing off your ability when 4th favorite or below
+48,48,200302,Become a little better at showing off your ability when 4th favorite or below
+48,48,200311,Become worse at GⅠ races
+48,48,200321,Become worse when you're the crowd favourite of the race
+48,48,200331,"Become better at corners, increases speed"
+48,48,200332,"Become better at corners, slightly increased speed"
+48,48,200333,"Become better at corners, decreases speed"
+48,48,200341,Increases acceleration through elegant cornering
+48,48,200342,Slightly increases acceleration through elegant cornering
+48,48,200343,Lightly decreases acceleration because of awkward cornering
+48,48,200351,Recover stamina through efficient cornering
+48,48,200352,Slightly recover stamina through efficient cornering
+48,48,200353,Lightly reduces stamina because of wasteful cornering
+48,48,200361,Increases speed on straights
+48,48,200362,Slightly increases speed on straights
+48,48,200371,Increases acceleration on straights
+48,48,200372,Slightly increases acceleration on straights
+48,48,200381,Recover stamina on straights
+48,48,200382,Slightly recover stamina on straights
+48,48,200391,Become lightly more tired during uphills
+48,48,200401,Endurance decreases lightly when surrounded
+48,48,200411,Tends to give up at the final straight line
+48,48,200421,Tends to get off-guard when leading at the remaining 200m
+48,48,200431,"Improve Starts, decreases delay of Late Starts"
+48,48,200432,"Improve Starts, slightly decreases delay of Late Starts"
+48,48,200433,"Worse at starts, lightly increases delay of Late Starts"
+48,48,200441,Remain composed and recover stamina in Opening Leg if front-side is crowded
+48,48,200442,Remain composed and slightly recover stamina in Opening Leg if front-side is crowded
+48,48,200451,Become better at taking a good track position during the Opening Leg
+48,48,200452,Become a little better at taking position during the Opening Leg of the race
+48,48,200461,Increases speed when passing during the Middle Leg
+48,48,200462,Slightly increases speed when passing during the Middle Leg
+48,48,200471,Recover stamina when passed in the Middle Leg
+48,48,200472,Slightly recover stamina when passed in the Middle Leg
+48,48,200481,Recover stamina when boxed in during the Middle Leg
+48,48,200482,Slightly recover stamina when boxed in during the Middle Leg
+48,48,200491,"When blocked during Last Spurt, become better at navigating through it"
+48,48,200492,"When blocked during Last Spurt, become slightly better at navigating through it"
+48,48,200501,Become a little better at positioning during the Final Leg of the race
+48,48,200502,Become a little better at positioning during the Final Leg of the race
+48,48,200511,Increase Speed during your Last Spurt
+48,48,200512,Slightly increases speed at the Last Spurt
+48,48,200521,Become a little tired if you lead at the beginning
+48,48,200531,Runner・Moving forwards becomes easier during the Opening Leg
+48,48,200532,Runner・Moving forwards becomes slightly easier during the Opening Leg
+48,48,200541,Runner・Going forwards during the Middle Leg becomes easier
+48,48,200542,Runner・Going forwards during the Middle Leg becomes slightly easier
+48,48,200551,Runner・Keeping the lead on the final corner becomes easier
+48,48,200552,Runner・Keeping the lead position on the final corner becomes slightly easier
+48,48,200561,Leader・Harder to tire out during the Opening Leg
+48,48,200562,Leader・Slightly harder to tire out during the Opening Leg
+48,48,200571,Leader・Harder to tire during the Middle Leg
+48,48,200572,Leader・Become slightly harder to tire during the Middle Leg
+48,48,200581,Leader・Passing becomes easier on the Final corner
+48,48,200582,Leader・Passing becomes slightly easier on the Final corner
+48,48,200591,Betweener・Increases speed during the Middle Leg
+48,48,200592,Betweener・Slightly increases speed during the Middle Leg
+48,48,200601,Betweener・Increases acceleration in the Final Leg
+48,48,200602,Betweener・Slightly increases acceleration during the Final Leg
+48,48,200611,Betweener・Increases speed when passing from the outside on the final corner
+48,48,200612,Betweener・Slightly increases speed when passing from the outside on the final corner
+48,48,200621,Chaser・Become harder to tire out during the Middle Leg
+48,48,200622,Chaser・Become slightly harder to tire out during the Middle Leg
+48,48,200631,Chaser・Get ready to pass during the Final Leg and become better at positioning
+48,48,200632,Chaser・Get ready to pass during the Final Leg and become slightly better at positioning
+48,48,200641,Chaser・Increases acceleration on the straight in the Last Spurt
+48,48,200642,Chaser・Slightly increases acceleration on the straight in the Last Spurt
+48,48,200651,Short・Increases acceleration on straights
+48,48,200652,Short・Slightly increases acceleration on straights
+48,48,200662,Short・Slightly harder to tire when in the back during the Middle Leg
+48,48,200671,Short・Spurts become easier when in the back of the pack during the Final Leg
+48,48,200672,Short・Spurts become slightly easier when in the back of the pack during the Final Leg
+48,48,200681,"Mile・When in the lead in Opening Leg, extending the lead becomes easier"
+48,48,200682,"Mile・When in the lead in Opening Leg, extending the lead becomes a little easier"
+48,48,200691,Mile・Become harder to tire when in the back of the pack during the Opening Lead
+48,48,200692,Mile・Become slightly harder to tire when in the back of the pack during the Opening Leg
+48,48,200701,Mile・Passing ability increases when behind in the Final Leg
+48,48,200702,Mile・Slightly increases passing ability when behind in the Final Leg
+48,48,200711,Medium・Become harder to tire out when in the lead during the Middle Leg
+48,48,200712,Medium・Become slightly harder to tire out when in the lead during the Middle Leg
+48,48,200721,Medium・Easier to take a good position in the Middle Leg if you're leading
+48,48,200722,Medium・Slightly easier to take a good position during the Middle Leg if you're leading
+48,48,200731,"Medium・When overtaken in the Final Leg, retaking your place becomes easier"
+48,48,200732,"Medium・When overtaken in the Final Leg, retaking your place becomes slightly easier"
+48,48,200741,Long・Take a breath when entering straights and become harder to tire out
+48,48,200742,Long・Take a breath when entering straights and become slightly harder to tire out
+48,48,200751,Long・Increases speed when near the inner fence during the Final Leg
+48,48,200752,Long・Slightly increases speed when near the inner fence during the Final Leg
+48,48,200761,Long・Recover the will to run after exhausting your strength
+48,48,200762,Long・Slightly recovers running willpower after exhausting your strength
+48,48,200771,"If you're in the front in the Middle Leg, tire out girls that are behind you and distracted"
+48,48,200781,"If you're behind in the Middle Leg, tire out girls that are in the front and distracted"
+48,48,200791,"When girls with <Strategy・Runner> become frantic, they take longer to calm down"
+48,48,200801,"When girls with <Strategy・Leader> become frantic, they take longer to calm down"
+48,48,200811,"When girls with <Strategy・Betweener> become frantic, they take longer to calm down"
+48,48,200821,"When girls with <Strategy・Chaser> become frantic, they take longer to calm down"
+48,48,200831,Restrain and slightly tire out girls with <Strategy・Runner> in the Opening Leg
+48,48,200841,Panic and slightly tire out girls with <Strategy・Runner> in Middle Leg
+48,48,200851,Instil hesitation and slows down girls with <Strategy・Runner> in the Final Leg
+48,48,200861,Restrain and slightly tire out girls with <Strategy・Leader> in the Opening Leg
+48,48,200871,Panic and slightly tire out girls with <Strategy・Leader> in the Middle Leg
+48,48,200881,Instil hesitation and slows down girls with <Strategy・Leader> in the Final Leg
+48,48,200891,Restrain and slightly tire out girls with <Strategy・Betweener> in the Opening Leg
+48,48,200901,Panic and slightly tire out girls with <Strategy・Betweener> in Middle Leg
+48,48,200911,Instil hesitation and slows down girls with <Strategy・Betweener> in the Final Leg
+48,48,200921,Restrain and slightly tire out girls with <Strategy・Chaser> in the Opening Leg
+48,48,200931,Panic and slightly tire out girls with <Strategy・Chaser> in Middle Leg
+48,48,200941,Instil hesitation and slows down girls with <Strategy・Chaser> in the Final Leg
+48,48,200951,Become better at Ooi Racetrack
+48,48,200952,Become a little better at Ooi Racetrack
+48,48,200953,Become a little worse at Ooi Racetrack
+48,48,200961,Short・Lightly increases speed on straights
+48,48,200962,Short・Slightly increases speed on straights
+48,48,200971,Short・Lightly increases speed on corners
+48,48,200972,Short・Slightly increases speed on corners
+48,48,200981,Short・Easier to keep the lead if you lead with big margin in the Middle Leg
+48,48,200982,Short・Slightly easier to keep the lead if you lead with big margin in the Middle Leg
+48,48,200991,Short・Passing becomes easier when in the front in Middle Leg
+48,48,200992,Short・Passing becomes slightly easier when in the front in Middle Leg
+48,48,201001,Short・Get more prepared for the goal line during the Middle Leg
+48,48,201002,Short・Get a bit more prepared for the goal line during the Middle Leg
+48,48,201011,Short・weaken girls in the back when leading in the opening leg
+48,48,201012,"Short・When in the front in Opening Leg, girls in the back become lightly weakened"
+48,48,201021,"Short・When behind in Opening Leg, panic girls in the front"
+48,48,201022,"Short・When behind in Opening Leg, slightly panic girls in the front"
+48,48,201031,Mile・Lightly increases speed on straights
+48,48,201032,Mile・Slightly increases speed on straights
+48,48,201041,Mile・lightly ncreases speed on corners
+48,48,201042,Mile・Slightly increases speed on corners
+48,48,201051,Mile・Passing becomes easier if you're in front in Middle Leg
+48,48,201052,Mile・Passing becomes slightly easier if you're in front in Middle Leg
+48,48,201061,Mile・Increases acceleration when passing in Middle Leg
+48,48,201062,Mile・Slightly increase acceleration when passing in Middle Leg
+48,48,201071,Mile・Passing becomes easier to succeed
+48,48,201072,Mile・Passing becomes slightly easier to succeed
+48,48,201081,Mile・Steal a bit of speed from horse girls behind you when leading in Middle Leg
+48,48,201082,Mile・Slightly steal speed of girls behind you when leading during in Middle Leg
+48,48,201091,Mile・Slows down girls in the front if you're behind in Opening Leg
+48,48,201092,Mile・Slightly slows down girls in the front if you're behind in Opening Leg
+48,48,201101,Medium・Lightly increases speed on straights
+48,48,201102,Medium・Slightly increases speed on straights
+48,48,201111,Medium・Increases speed on corners
+48,48,201112,Medium・Slightly increases speed on corners
+48,48,201121,"Medium・Sharpens observation skills during the Opening Leg, widening field of vision"
+48,48,201122,"Medium・Lightly sharpens observation skills during the Opening Leg, widening field of vision"
+48,48,201131,Medium・Become harder to box in if behind in Middle Leg
+48,48,201132,Medium・Become lightly harder to box in if behind in Middle Leg
+48,48,201141,Medium・Become harder to tire out from left-right movements
+48,48,201142,Medium・Become slightly harder to tire out from left-right movements
+48,48,201151,Medium・Slows down girls in the front if you're behind in Final Leg
+48,48,201152,Medium・Slightly slows down girls in the front if you're behind in Final Leg
+48,48,201161,Medium・Confuses the girl right in front of you in Middle Leg
+48,48,201162,Medium・Slightly confuses the girl right in front of you in Middle Leg
+48,48,201171,Long・Lightly increases speed on straights
+48,48,201172,Long・Slightly increases speed on straights
+48,48,201181,Long・Lightly increases speed on corners
+48,48,201182,Long・Slightly increases speed on corners
+48,48,201191,Long・Easier to keep the lead if you lead with big margin in the Middle Leg
+48,48,201192,Long・Slightly easier to keep the lead if you lead with big margin in the Middle Leg
+48,48,201202,Long・Become slightly harder to tire when passing
+48,48,201211,Long・Increases speed when passing in the Final Leg
+48,48,201212,Long・Slightly increases speed when passing in the Final Leg
+48,48,201221,Long・Steal a bit of stamina from girls in the front when behind in Middle Leg
+48,48,201222,Long・Slightly steal stamina of girls in the front when behind in Middle Leg
+48,48,201231,Long・Narrows the field of vision of girls in the front in Final Leg
+48,48,201232,Long・Lightly narrows the field of vision of girls in the front in Final Leg
+48,48,201241,Runner・Lightly increases speed on straights
+48,48,201242,Runner・Slightly increases speed on straights
+48,48,201251,Runner・Lightly increases speed on corners
+48,48,201252,Runner・Slightly increases speed on corners
+48,48,201261,Runner・Become harder to box in during Opening Leg
+48,48,201262,Runner・Become a bit harder to surround in Opening Leg
+48,48,201272,Runner・Become slightly harder to pass in the Opening Leg
+48,48,201281,Runner・Become harder to tire out on uphills
+48,48,201282,Runner・Become slightly harder to tire out on uphills
+48,48,201291,Runner・Increases acceleration when behind in Middle Leg
+48,48,201292,Runner・Slightly increases acceleration behind in Middle Leg
+48,48,201302,"Runner・When failing to take the lead during the Opening Leg, girls in front will become flustered"
+48,48,201311,Leader・Lightly increases speed on straights
+48,48,201312,Leader・Slightly increases speed on straights
+48,48,201321,Leader・Lightly increases speed on corners
+48,48,201322,Leader・Slightly increases speed on corners
+48,48,201331,Leader・Taking position becomes a bit smoother
+48,48,201332,Leader・Taking position becomes very slightly smoother
+48,48,201341,Leader・Become a bit better at downhills
+48,48,201342,Leader・Become slightly better at downhills
+48,48,201351,Leader・Recover stamina in Middle Leg
+48,48,201352,Leader・Slightly recover stamina in Middle Leg
+48,48,201361,Leader・Lightly increases acceleration when behind in Middle Leg
+48,48,201362,Leader・Slightly increases acceleration when behind in Middle Leg
+48,48,201371,レース終盤に前の方にいると後方の\n視野が少し狭くなる＜作戦・先行＞
+48,48,201372,レース終盤に前の方にいると後方の\n視野がわずかに狭くなる＜作戦・先行＞
+48,48,201381,直線で速度が少し上がる\n＜作戦・差し＞
+48,48,201382,Slightly increases speed on straights\n＜作戦・差し＞
+48,48,201391,コーナーで速度が少し上がる\n＜作戦・差し＞
+48,48,201392,コーナーで速度がわずかに上がる\n＜作戦・差し＞
+48,48,201401,追い抜きが少し成功しやすくなる\n＜作戦・差し＞
+48,48,201402,追い抜きがわずかに成功しやすくなる\n＜作戦・差し＞
+48,48,201411,上り坂で速度が上がる\n＜作戦・差し＞
+48,48,201412,上り坂で速度がわずかに上がる\n＜作戦・差し＞
+48,48,201421,レース終盤に持久力が回復する\n＜作戦・差し＞
+48,48,201422,レース終盤に持久力がわずかに回復する\n＜作戦・差し＞
+48,48,201431,レース中盤に観察力が高まり\n視野を広く持てる＜作戦・差し＞
+48,48,201432,レース中盤に観察力が高まり視野を\nわずかに広く持てる＜作戦・差し＞
+48,48,201441,レース終盤に他のウマ娘が\n動揺する＜作戦・差し＞
+48,48,201442,レース終盤に他のウマ娘が\nわずかに動揺する＜作戦・差し＞
+48,48,201451,直線で速度が少し上がる\n＜作戦・追込＞
+48,48,201452,Slightly increases speed on straights\n＜作戦・追込＞
+48,48,201461,コーナーで速度が少し上がる\n＜作戦・追込＞
+48,48,201462,コーナーで速度がわずかに上がる\n＜作戦・追込＞
+48,48,201471,左右に移動すると状況を把握して\n視野が少し広くなる＜作戦・追込＞
+48,48,201472,左右に移動すると状況を把握して\n視野がわずかに広くなる＜作戦・追込＞
+48,48,201481,下り坂で疲れにくくなる\n＜作戦・追込＞
+48,48,201482,下り坂でわずかに疲れにくくなる\n＜作戦・追込＞
+48,48,201491,前が詰まった時に落ち着いて\n態勢を立て直す＜作戦・追込＞
+48,48,201492,前が詰まった時に落ち着いて\n態勢をわずかに立て直す＜作戦・追込＞
+48,48,201501,レース終盤に後ろの方にいると\n視野が広くなる＜作戦・追込＞
+48,48,201502,レース終盤に後ろの方にいると\n視野がわずかに広くなる＜作戦・追込＞
+48,48,201511,レース終盤に目を付けたウマ娘の\n緊張感が増す＜作戦・追込＞
+48,48,201512,レース終盤に目を付けたウマ娘の\n緊張感がわずかに増す＜作戦・追込＞
+48,48,201521,良い位置につきやすくなる\n＜作戦・逃げ＞
+48,48,201522,良い位置に少しつきやすくなる\n＜作戦・逃げ＞
+48,48,201531,良い位置につきやすくなる\n＜作戦・先行＞
+48,48,201532,良い位置に少しつきやすくなる\n＜作戦・先行＞
+48,48,201541,良い位置につきやすくなる\n＜作戦・差し＞
+48,48,201542,良い位置に少しつきやすくなる\n＜作戦・差し＞
+48,48,201551,良い位置につきやすくなる\n＜作戦・追込＞
+48,48,201552,良い位置に少しつきやすくなる\n＜作戦・追込＞
+48,48,201561,枠番が7の時に\n良いことが起きる場合がある
+48,48,201562,枠番が7の時に少し\n良いことが起きる場合がある
+48,48,201571,残り距離が777mの時に\nわずかに元気が出る
+48,48,201581,上り坂がわずかに上手くなる
+48,48,201591,近くにウマ娘がたくさんいると\n速度がわずかに上がる
+48,48,201601,レース序盤にスキルを多く発動すると\n加速力がわずかに上がる
+48,48,201611,レース中盤にスキルを多く発動すると\n速度がわずかに上がる
+48,48,201621,レース終盤にスキルを多く発動すると\n持久力がわずかに回復する
+48,48,201631,Sympathyの心を持つウマ娘が多い\nレースだと少し能力が上がる
+48,48,201641,自分だけがLone Wolfの心を持つレースで\n少し能力が上がる
+48,48,201651,前のウマ娘のすぐ後ろに付けると\n風の抵抗をわずかに受けにくくなる
+48,48,201661,すぐ後ろにウマ娘が長くいると\n速度がわずかに上がる
+48,48,201671,レース中盤に競り合うと\n速度が上がる＜ダート＞
+48,48,201672,レース中盤に競り合うと\n速度がわずかに上がる＜ダート＞
+48,48,900011,レース終盤に前の方で相手を抜くと\n速度がわずかに上がる
+48,48,900021,最終直線で差を付けて先頭にいると\n速度をわずかに上げる
+48,48,900031,最終直線で前と差が詰まると\n速度が少し上がる
+48,48,900041,最終コーナー以降で前の方にいると\n加速力がわずかに上がる
+48,48,900061,残り200m地点で前の方にいると\n少し抜け出しやすくなる
+48,48,900071,レース中間からロングスパートをかけて\n速度がちょっとずつ上がる
+48,48,900081,残り200mを切って前の方にいると\n速度がわずかに上がる
+48,48,900091,レース後半で1番を\nキープし続ける力をちょっと発揮する
+48,48,900101,最終コーナーで好位置にいると\n加速力がわずかに上がる
+48,48,900111,最終直線で後ろの方から追い抜くと\n速度がわずかに上がる
+48,48,900121,最終直線で後ろの方から外を回って\n追い抜く時、速度をわずかに上げる
+48,48,900131,最終コーナーで前の方にいると\n速度がわずかに上がる
+48,48,900141,最終直線で余力を持って前にいると\nちょっと優位を保ちやすくなる
+48,48,900151,最終コーナーで前の方で競り合うと\n速度がわずかに上がる
+48,48,900161,最終コーナー以降で外から追い抜くと\n速度をわずかに上げる
+48,48,900171,レース終盤に3回追い抜くと\n最終直線で速度が少し上がる
+48,48,900181,最終コーナーで後ろから追い抜くと\n速度がわずかに上がる
+48,48,900201,レース終盤のコーナーで先頭にいると\n加速力をわずかに上げる
+48,48,900231,最終コーナーで前の方で追い抜くと\n速度をわずかに上げる
+48,48,900241,最終コーナーで前の方で競り合うと\n直線でちょっと抜け出しやすくなる
+48,48,900261,最終直線までみずから崩れることなく\n前の方にいるとわずかに速度が上がる
+48,48,900271,レース終盤のコーナーで前の位置に\nつこうとして加速力がわずかに上がる
+48,48,900301,最終直線で抜け出した時に\n速度がわずかに上がる
+48,48,900321,レース後半のコーナーで控えていると\n持久力がわずかに回復する
+48,48,900351,最終直線で競り合いに負けない\n気持ちが湧けば、速度がわずかに上がる
+48,48,900381,レース中間付近で好位置にいる時に\n追い抜くとちょっと進出を開始する
+48,48,900411,レース後半に前の方で競り合うと\n速度がわずかに上がる
+48,48,900451,レース中盤で好位置にいる時に\n持久力がわずかに回復する
+48,48,900461,レース中盤の直線で先頭を奪われそうに\nなると譲らない想いがちょっと力になる
+48,48,900501,最終コーナーで集団の後方の位置から\n前へ出る時、速度がわずかに上がる
+48,48,900521,最終コーナーで後ろの方にいると近くの\nウマ娘を見て持久力をわずかに回復する
+48,48,900561,レース終盤に前方が詰まると\nお告げ次第で道をわずかに切り開く
+48,48,900601,レース終盤で3番手の時に負けそうに\nなると速度がわずかに上がる
+48,48,900611,レースをSereneに運ぶことができると残り\n200mで実力発揮、速度が少し上がる
+48,48,910031,最終直線で前の方で追いすがっていると\n速度がわずかに上がる
+48,48,910111,中盤に後ろの方で順位を下げた時に\n持久力をわずかに回復する
+48,48,910131,最終コーナー以降に前めで力が尽きかけ\n詰め寄られると速度がわずかに上がる
+48,48,910141,最終コーナーで中団から前を狙う時\n加速力をわずかに上げる
+48,48,910181,レース中盤で前の方から\n仕掛け始める時に速度がわずかに上がる
+48,48,910241,最終コーナーで前の方で抜くと速度が後\nろの方で抜くと加速力がわずかに上がる
