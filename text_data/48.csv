@@ -192,12 +192,12 @@ id,category,index,text
 48,48,200572,Leader・Become slightly harder to tire during the Middle Leg
 48,48,200581,Leader・Passing becomes easier on the Final corner
 48,48,200582,Leader・Passing becomes slightly easier on the Final corner
-48,48,200591,Betweener・Increases speed during the Middle Leg
-48,48,200592,Betweener・Slightly increases speed during the Middle Leg
-48,48,200601,Betweener・Increases acceleration in the Final Leg
-48,48,200602,Betweener・Slightly increases acceleration during the Final Leg
-48,48,200611,Betweener・Increases speed when passing from the outside on the final corner
-48,48,200612,Betweener・Slightly increases speed when passing from the outside on the final corner
+48,48,200591,Escape・Increases speed during the Middle Leg
+48,48,200592,Escape・Slightly increases speed during the Middle Leg
+48,48,200601,Escape・Increases acceleration in the Final Leg
+48,48,200602,Escape・Slightly increases acceleration during the Final Leg
+48,48,200611,Escape・Increases speed when passing from the outside on the final corner
+48,48,200612,Escape・Slightly increases speed when passing from the outside on the final corner
 48,48,200621,Chaser・Become harder to tire out during the Middle Leg
 48,48,200622,Chaser・Become slightly harder to tire out during the Middle Leg
 48,48,200631,Chaser・Get ready to pass during the Final Leg and become better at positioning
@@ -231,7 +231,7 @@ id,category,index,text
 48,48,200781,"If you're behind in the Middle Leg, tire out girls that are in the front and distracted"
 48,48,200791,"When girls with <Strategy・Runner> become frantic, they take longer to calm down"
 48,48,200801,"When girls with <Strategy・Leader> become frantic, they take longer to calm down"
-48,48,200811,"When girls with <Strategy・Betweener> become frantic, they take longer to calm down"
+48,48,200811,"When girls with <Strategy・Escape> become frantic, they take longer to calm down"
 48,48,200821,"When girls with <Strategy・Chaser> become frantic, they take longer to calm down"
 48,48,200831,Restrain and slightly tire out girls with <Strategy・Runner> in the Opening Leg
 48,48,200841,Panic and slightly tire out girls with <Strategy・Runner> in Middle Leg
@@ -239,9 +239,9 @@ id,category,index,text
 48,48,200861,Restrain and slightly tire out girls with <Strategy・Leader> in the Opening Leg
 48,48,200871,Panic and slightly tire out girls with <Strategy・Leader> in the Middle Leg
 48,48,200881,Instil hesitation and slows down girls with <Strategy・Leader> in the Final Leg
-48,48,200891,Restrain and slightly tire out girls with <Strategy・Betweener> in the Opening Leg
-48,48,200901,Panic and slightly tire out girls with <Strategy・Betweener> in Middle Leg
-48,48,200911,Instil hesitation and slows down girls with <Strategy・Betweener> in the Final Leg
+48,48,200891,Restrain and slightly tire out girls with <Strategy・Escape> in the Opening Leg
+48,48,200901,Panic and slightly tire out girls with <Strategy・Escape> in Middle Leg
+48,48,200911,Instil hesitation and slows down girls with <Strategy・Escape> in the Final Leg
 48,48,200921,Restrain and slightly tire out girls with <Strategy・Chaser> in the Opening Leg
 48,48,200931,Panic and slightly tire out girls with <Strategy・Chaser> in Middle Leg
 48,48,200941,Instil hesitation and slows down girls with <Strategy・Chaser> in the Final Leg
@@ -329,20 +329,20 @@ id,category,index,text
 48,48,201362,Leader・Slightly increases acceleration when behind in Middle Leg
 48,48,201371,Leader・Lightly narrows the field of vision of girls in the back when in front in Final Leg
 48,48,201372,Leader・Slightly narrows the field of view of girls in the back when in Front in Final Leg
-48,48,201381,Betweener・Lightly increases speed on straights
-48,48,201382,Betweener・Slightly increases speed on straights
-48,48,201391,Betweener・Lightly increases speed on corners
-48,48,201392,Betweener・Slightly increases speed on corners
-48,48,201401,Betweener・Passing becomes a bit easier to succeed
-48,48,201402,Betweener・Passing becomes slightly easier to succeed
-48,48,201411,Betweener・Increases speed on uphills
-48,48,201412,Betweener・Slightly increases speed on uphills
-48,48,201421,Betweener・Recover stamina during the Final Leg
-48,48,201422,Betweener・Slightly recover stamina during the Final Leg
-48,48,201431,"Betweener・Sharpens observation skills in Middle Leg, widening field of vision a little"
-48,48,201432,"Betweener・Slightly sharpens observation skills during the Middle Leg, widening field of vision a little"
-48,48,201441,Betweener・Flusters other girls in Final Leg
-48,48,201442,Betweener・Slightly flusters other girls during in Final Leg
+48,48,201381,Escape・Lightly increases speed on straights
+48,48,201382,Escape・Slightly increases speed on straights
+48,48,201391,Escape・Lightly increases speed on corners
+48,48,201392,Escape・Slightly increases speed on corners
+48,48,201401,Escape・Passing becomes a bit easier to succeed
+48,48,201402,Escape・Passing becomes slightly easier to succeed
+48,48,201411,Escape・Increases speed on uphills
+48,48,201412,Escape・Slightly increases speed on uphills
+48,48,201421,Escape・Recover stamina during the Final Leg
+48,48,201422,Escape・Slightly recover stamina during the Final Leg
+48,48,201431,"Escape・Sharpens observation skills in Middle Leg, widening field of vision a little"
+48,48,201432,"Escape・Slightly sharpens observation skills during the Middle Leg, widening field of vision a little"
+48,48,201441,Escape・Flusters other girls in Final Leg
+48,48,201442,Escape・Slightly flusters other girls during in Final Leg
 48,48,201451,Chaser・Lightly increases speed on straights
 48,48,201452,Chaser・Slightly increases speed on straights
 48,48,201461,Chaser・Lightly increases speed on corners
@@ -361,8 +361,8 @@ id,category,index,text
 48,48,201522,Runner・Taking a good position becomes a little easier
 48,48,201531,Leader・Taking a good position becomes easier
 48,48,201532,Leader・Taking a good position becomes a little easier
-48,48,201541,Betweener・Taking a good position becomes easier
-48,48,201542,Betweener・Taking a good position becomes a little easier
+48,48,201541,Escape・Taking a good position becomes easier
+48,48,201542,Escape・Taking a good position becomes a little easier
 48,48,201551,Chaser・Taking a good position becomes easier
 48,48,201552,Chaser・Taking a good position becomes a little easier
 48,48,201561,Good things may happen if your starting gate is 7
